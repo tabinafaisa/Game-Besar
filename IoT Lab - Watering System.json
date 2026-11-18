@@ -747,6 +747,78 @@
         "name": "01_Dry_Plant.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "Futuristic Inventory and Circuit UI.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Futuristic Inventory and Circuit UI.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Futuristic Inventory and Circuit UI (3).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Futuristic Inventory and Circuit UI (3).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Futuristic Inventory and Circuit UI (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Futuristic Inventory and Circuit UI (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Two Colorful Robot Game Success Banners (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Two Colorful Robot Game Success Banners (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Two Colorful Robot Game Success Banners (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Two Colorful Robot Game Success Banners (2).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Glossy Yellow Lanjut Play Button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Glossy Yellow Lanjut Play Button.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Glossy Yellow Retry Button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Glossy Yellow Retry Button.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Two Colorful Robot Game Success Banners (1)2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Two Colorful Robot Game Success Banners (1)2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Komponen dan Rangkaian Gagal (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Komponen dan Rangkaian Gagal (2).png",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -780,7 +852,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.3664484724407375,
+        "zoomFactor": 0.6164812573094253,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -2404,8 +2476,8 @@
           "name": "TeksPertama",
           "persistentUuid": "5ca9b4cb-61d1-4c13-85fb-0bd35cbc8f43",
           "width": 521,
-          "x": 472,
-          "y": 500,
+          "x": 468,
+          "y": 499,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -2420,8 +2492,8 @@
           "name": "TeksKedua",
           "persistentUuid": "dc9ea25b-0bb9-4d82-aa8d-fc98651bc607",
           "width": 495,
-          "x": 474,
-          "y": 502,
+          "x": 468,
+          "y": 499,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -2437,8 +2509,8 @@
           "name": "pintulevel1",
           "persistentUuid": "b10d2ec4-4dfb-440d-8ceb-f372f170d0a1",
           "width": 56,
-          "x": -102,
-          "y": 434,
+          "x": -105,
+          "y": 438,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -2454,8 +2526,8 @@
           "name": "Teks1Level1",
           "persistentUuid": "07180f42-0563-4b5a-9e37-3c922351f3c1",
           "width": 517,
-          "x": 470,
-          "y": 503,
+          "x": 468,
+          "y": 500,
           "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
@@ -2488,9 +2560,25 @@
           "name": "Teks2Level1",
           "persistentUuid": "94af724d-77eb-4459-9435-27a950aa2b4f",
           "width": 527,
-          "x": 463,
-          "y": 506,
+          "x": 469,
+          "y": 499,
           "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "debug",
+          "persistentUuid": "53480d32-86d3-41fc-a8c7-41afdd63ce14",
+          "width": 0,
+          "x": -235,
+          "y": 351,
+          "zOrder": 30,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2499,15 +2587,66 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 409,
+          "height": 476,
           "keepRatio": true,
           "layer": "UI",
           "name": "panelinventory",
-          "persistentUuid": "b0b4a0b6-14b9-43da-b5d0-ef70ca31cfe6",
-          "width": 829,
-          "x": 246,
-          "y": 138,
-          "zOrder": 21,
+          "persistentUuid": "002a288d-fa3a-445f-a6da-a193fdf58a14",
+          "width": 879,
+          "x": 239,
+          "y": 91,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 88,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "esp32",
+          "persistentUuid": "f6ba3971-1148-425f-a2e4-7672e85cfdb7",
+          "width": 98,
+          "x": 357,
+          "y": 258,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 85,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "soilmoist",
+          "persistentUuid": "6c7a7d98-bd54-4bf6-98ff-f0d11528f1e6",
+          "width": 79,
+          "x": 546,
+          "y": 260,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 84,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "raspi",
+          "persistentUuid": "1cd324d7-80de-45b1-8b48-32fcaa2f1acc",
+          "width": 103,
+          "x": 701,
+          "y": 261,
+          "zOrder": 34,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2519,63 +2658,63 @@
           "height": 69,
           "keepRatio": true,
           "layer": "UI",
-          "name": "esp32",
-          "persistentUuid": "92fcf119-e198-4a8d-9fe1-c6c827c63b92",
-          "width": 77,
-          "x": 366,
-          "y": 301,
-          "zOrder": 22,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 65,
-          "keepRatio": true,
-          "layer": "UI",
-          "name": "soilmoist",
-          "persistentUuid": "d99e601f-a0cc-47ae-b04e-2f399bac7a02",
-          "width": 65,
-          "x": 546,
-          "y": 305,
-          "zOrder": 23,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 66,
-          "keepRatio": true,
-          "layer": "UI",
-          "name": "raspi",
-          "persistentUuid": "47b7efbb-2420-48fb-989e-4c4a33a84599",
-          "width": 77,
-          "x": 704,
-          "y": 300,
-          "zOrder": 24,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 62,
-          "keepRatio": true,
-          "layer": "UI",
           "name": "waterpump",
-          "persistentUuid": "6ec25a0b-2da1-412d-b956-993c17374ece",
-          "width": 83,
-          "x": 863,
-          "y": 301,
-          "zOrder": 25,
+          "persistentUuid": "577b980b-4c46-4b47-bd50-0fb208a0c835",
+          "width": 109,
+          "x": 871,
+          "y": 266,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 93,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "relay",
+          "persistentUuid": "ef2e08ff-26b8-4dbc-bf76-00d9121f03f0",
+          "width": 105,
+          "x": 355,
+          "y": 378,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 73,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "lan",
+          "persistentUuid": "29399000-a6d0-4e09-b4a1-17dcba08a92a",
+          "width": 82,
+          "x": 542,
+          "y": 390,
+          "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 83,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "pico",
+          "persistentUuid": "1f7e25f9-3e00-4e72-ac8f-438e653e090d",
+          "width": 90,
+          "x": 886,
+          "y": 385,
+          "zOrder": 38,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2587,46 +2726,12 @@
           "height": 75,
           "keepRatio": true,
           "layer": "UI",
-          "name": "relay",
-          "persistentUuid": "6ff6ece0-afe7-4f4b-8b83-501adf12ac72",
-          "width": 80,
-          "x": 371,
-          "y": 409,
-          "zOrder": 26,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 62,
-          "keepRatio": true,
-          "layer": "UI",
-          "name": "lan",
-          "persistentUuid": "422571a5-e68f-4998-a678-d750ed1b5faf",
-          "width": 67,
-          "x": 543,
-          "y": 414,
-          "zOrder": 27,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "UI",
           "name": "wifi",
-          "persistentUuid": "1295c09a-e52c-475a-b607-0433a664ba46",
-          "width": 75,
-          "x": 704,
-          "y": 413,
-          "zOrder": 28,
+          "persistentUuid": "7f69c7fc-2ecc-4aee-acec-85b17331cde7",
+          "width": 87,
+          "x": 711,
+          "y": 389,
+          "zOrder": 39,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2635,15 +2740,49 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 65,
+          "height": 92,
           "keepRatio": true,
           "layer": "UI",
-          "name": "pico",
-          "persistentUuid": "79184b68-0de9-4b6f-b2f9-5f33f10742d1",
-          "width": 80,
-          "x": 872,
-          "y": 414,
-          "zOrder": 29,
+          "name": "checkcircuit",
+          "persistentUuid": "b2737d53-91fb-4bcb-afb3-606161ec35a0",
+          "width": 299,
+          "x": 513,
+          "y": 562,
+          "zOrder": 40,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 245,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "komponenbenar",
+          "persistentUuid": "693f8808-d87b-41ca-868f-bff076dca039",
+          "width": 984,
+          "x": 181,
+          "y": 260,
+          "zOrder": 41,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 77,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "buttonlanjut",
+          "persistentUuid": "1f72c776-ad69-449b-95d2-476b491c61f8",
+          "width": 196,
+          "x": 932,
+          "y": 383,
+          "zOrder": 42,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3766,7 +3905,7 @@
           "string": "Halo, teknisi! Aku NOVA, asisten laboratorium ini. Kita punya masalah besar. Automatic Watering System tiba-tiba berhenti bekerja!\nTanaman mulai kekeringan, data sensor tidak muncul, dan sistem otomatisasi tidak merespons. Aku sudah memeriksa sistem, tetapi ada tiga bagian yang perlu kita pulihkan.\n",
           "font": "324125cb585f82598dfa4c27a79e08c98042332f837f5c1c926dcfb15ffe55c9_MPLUS1p-Medium.ttf",
           "textAlignment": "left",
-          "characterSize": 18,
+          "characterSize": 16,
           "color": {
             "b": 48,
             "g": 18,
@@ -3790,7 +3929,7 @@
             "font": "324125cb585f82598dfa4c27a79e08c98042332f837f5c1c926dcfb15ffe55c9_MPLUS1p-Medium.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
-            "characterSize": 18,
+            "characterSize": 16,
             "lineHeight": 0,
             "color": "26;18;48"
           }
@@ -3810,7 +3949,7 @@
           "string": "Pertama, kita harus memastikan perangkatnya berfungsi. Setelah itu, kita pulihkan koneksi jaringan dan terakhir memperbaiki aturan otomatisasinya.\nJangan khawatir, aku akan membantumu. Cari komponen yang dibutuhkan, selesaikan setiap puzzle, dan uji sistemmu. Siap menyelamatkan laboratorium?\n",
           "font": "324125cb585f82598dfa4c27a79e08c98042332f837f5c1c926dcfb15ffe55c9_MPLUS1p-Medium.ttf",
           "textAlignment": "left",
-          "characterSize": 18,
+          "characterSize": 16,
           "color": {
             "b": 48,
             "g": 18,
@@ -3834,7 +3973,7 @@
             "font": "324125cb585f82598dfa4c27a79e08c98042332f837f5c1c926dcfb15ffe55c9_MPLUS1p-Medium.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
-            "characterSize": 18,
+            "characterSize": 16,
             "lineHeight": 0,
             "color": "26;18;48"
           }
@@ -3904,6 +4043,7 @@
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "pintulevel1",
+          "persistentUuid": "ee115d8c-08db-4c99-911d-0589a35c8f05",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -4451,67 +4591,6 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "panelinventory",
-          "persistentUuid": "906b4b89-737c-41e9-b21f-45bccedcc005",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "05_Panel_Inventory.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 1,
-                            "y": 0
-                          },
-                          {
-                            "x": 511,
-                            "y": 0
-                          },
-                          {
-                            "x": 511,
-                            "y": 255
-                          },
-                          {
-                            "x": 1,
-                            "y": 255
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "assetStoreId": "",
           "bold": false,
           "italic": false,
@@ -4805,7 +4884,7 @@
           "string": "Aduh! Lihat tanaman di sebelah sana. Tanahnya sudah kering, tetapi pompa air tidak menyala.\nSepertinya ada komponen yang belum terpasang dengan benar. Kita perlu mencari perangkat yang dibutuhkan untuk menghidupkan kembali sistem penyiraman ini!",
           "font": "324125cb585f82598dfa4c27a79e08c98042332f837f5c1c926dcfb15ffe55c9_MPLUS1p-Medium.ttf",
           "textAlignment": "left",
-          "characterSize": 18,
+          "characterSize": 16,
           "color": {
             "b": 0,
             "g": 0,
@@ -4829,7 +4908,7 @@
             "font": "324125cb585f82598dfa4c27a79e08c98042332f837f5c1c926dcfb15ffe55c9_MPLUS1p-Medium.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
-            "characterSize": 18,
+            "characterSize": 16,
             "lineHeight": 0,
             "color": "0;0;0"
           }
@@ -4911,7 +4990,7 @@
           "string": "Sekarang kita perlu memilih perangkat yang tepat. Cari komponen yang dapat membaca kelembapan tanah, mengendalikan aliran listrik, dan mengaktifkan pompa air",
           "font": "324125cb585f82598dfa4c27a79e08c98042332f837f5c1c926dcfb15ffe55c9_MPLUS1p-Medium.ttf",
           "textAlignment": "left",
-          "characterSize": 20,
+          "characterSize": 16,
           "color": {
             "b": 0,
             "g": 0,
@@ -4935,10 +5014,554 @@
             "font": "324125cb585f82598dfa4c27a79e08c98042332f837f5c1c926dcfb15ffe55c9_MPLUS1p-Medium.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
-            "characterSize": 20,
+            "characterSize": 16,
             "lineHeight": 0,
             "color": "0;0;0"
           }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "debug",
+          "persistentUuid": "701dea86-5303-42c8-9829-65727b8cb33c",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "debug text",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 40,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "debug text",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 40,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite2",
+          "persistentUuid": "c966beb7-0612-4206-9117-0c13fd1bf2bb",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "checkcircuit",
+          "persistentUuid": "67171ba0-27ed-49df-8844-d3dbe212d034",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Futuristic Inventory and Circuit UI (3).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 0
+                          },
+                          {
+                            "x": 820,
+                            "y": 0
+                          },
+                          {
+                            "x": 820,
+                            "y": 230
+                          },
+                          {
+                            "x": 3,
+                            "y": 230
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "panelinventory",
+          "persistentUuid": "53097094-a9c0-470a-a260-83d68732b3f6",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Futuristic Inventory and Circuit UI (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 0
+                          },
+                          {
+                            "x": 1354,
+                            "y": 0
+                          },
+                          {
+                            "x": 1354,
+                            "y": 750
+                          },
+                          {
+                            "x": 33,
+                            "y": 750
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "komponenbenar",
+          "persistentUuid": "927f4886-126d-42ee-a1fc-7670b38ff130",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Two Colorful Robot Game Success Banners (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 4
+                          },
+                          {
+                            "x": 1606,
+                            "y": 4
+                          },
+                          {
+                            "x": 1606,
+                            "y": 390
+                          },
+                          {
+                            "x": 10,
+                            "y": 390
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "berhasildirakit",
+          "persistentUuid": "26d6083e-b056-43cc-8827-a86349a3e1bb",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Two Colorful Robot Game Success Banners (2).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 7
+                          },
+                          {
+                            "x": 1604,
+                            "y": 7
+                          },
+                          {
+                            "x": 1604,
+                            "y": 385
+                          },
+                          {
+                            "x": 8,
+                            "y": 385
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "buttonlanjut",
+          "persistentUuid": "977e4605-d375-4134-86af-996665611ffa",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Glossy Yellow Lanjut Play Button.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 84,
+                            "y": 88
+                          },
+                          {
+                            "x": 2078,
+                            "y": 88
+                          },
+                          {
+                            "x": 2078,
+                            "y": 655
+                          },
+                          {
+                            "x": 84,
+                            "y": 655
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "buttonulangi",
+          "persistentUuid": "898cf8df-3ba3-438f-8714-693719e17c3a",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Glossy Yellow Retry Button.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 76,
+                            "y": 71
+                          },
+                          {
+                            "x": 2087,
+                            "y": 71
+                          },
+                          {
+                            "x": 2087,
+                            "y": 674
+                          },
+                          {
+                            "x": 76,
+                            "y": 674
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "komponensalah",
+          "persistentUuid": "62a5bf47-40e5-45dd-9c77-780b41437b15",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Two Colorful Robot Game Success Banners (1)2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 4
+                          },
+                          {
+                            "x": 1606,
+                            "y": 4
+                          },
+                          {
+                            "x": 1606,
+                            "y": 390
+                          },
+                          {
+                            "x": 10,
+                            "y": 390
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "rangkaiangagal",
+          "persistentUuid": "ccb25415-84af-49c7-b9c4-635d604d2e77",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Komponen dan Rangkaian Gagal (2).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 0
+                          },
+                          {
+                            "x": 1601,
+                            "y": 0
+                          },
+                          {
+                            "x": 1601,
+                            "y": 426
+                          },
+                          {
+                            "x": 2,
+                            "y": 426
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -4951,7 +5574,7 @@
             "objectName": "background"
           },
           {
-            "objectName": "panelinventory"
+            "objectName": "NewSprite2"
           },
           {
             "objectName": "PathWall"
@@ -4967,6 +5590,9 @@
           },
           {
             "objectName": "JudulPanel"
+          },
+          {
+            "objectName": "debug"
           },
           {
             "objectName": "TeksPertama"
@@ -5021,6 +5647,30 @@
           },
           {
             "objectName": "Teks2Level1"
+          },
+          {
+            "objectName": "checkcircuit"
+          },
+          {
+            "objectName": "panelinventory"
+          },
+          {
+            "objectName": "komponenbenar"
+          },
+          {
+            "objectName": "berhasildirakit"
+          },
+          {
+            "objectName": "buttonlanjut"
+          },
+          {
+            "objectName": "buttonulangi"
+          },
+          {
+            "objectName": "komponensalah"
+          },
+          {
+            "objectName": "rangkaiangagal"
           }
         ]
       },
@@ -6195,6 +6845,14 @@
               "parameters": [
                 "dryplant"
               ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "checkcircuit"
+              ]
             }
           ]
         },
@@ -6704,6 +7362,15 @@
             },
             {
               "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "checkcircuit",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "SetNumberVariable"
               },
               "parameters": [
@@ -6717,9 +7384,99 @@
                 "value": "SetNumberVariable"
               },
               "parameters": [
-                "L1InventoryOpen",
+                "InventoryOpen",
                 "=",
                 "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "SelectedCount",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Selected_ESP32",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Selected_SoilMoist",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Selected_Relay",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Selected_WaterPump",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Selected_Raspi",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Selected_LAN",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Selected_WiFi",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Selected_Pico",
+                "=",
+                "0"
               ]
             }
           ]
@@ -7043,141 +7800,7 @@
                 "esp32",
                 "Opacity",
                 "=",
-                "25"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "IsCursorOnObject"
-              },
-              "parameters": [
-                "esp32",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonFromTextReleased"
-              },
-              "parameters": [
-                "",
-                "\"Left\""
-              ]
-            }
-          ],
-          "actions": [],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "NumberVariable"
-                  },
-                  "parameters": [
-                    "Selected_ESP32",
-                    "=",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "NumberVariable"
-                  },
-                  "parameters": [
-                    "SelectedCount",
-                    "<",
-                    "4"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "Selected_ESP32",
-                    "=",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "SelectedCount",
-                    "+",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "OpacityCapability::OpacityBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "esp32",
-                    "Opacity",
-                    "=",
-                    "25"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "NumberVariable"
-                  },
-                  "parameters": [
-                    "Selected_ESP32",
-                    "=",
-                    "1"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "Selected_ESP32",
-                    "=",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "SelectedCount",
-                    "-",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "OpacityCapability::OpacityBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "esp32",
-                    "Opacity",
-                    "=",
-                    "255"
-                  ]
-                }
+                "255"
               ]
             }
           ]
@@ -7211,43 +7834,13 @@
                 "value": "NumberVariable"
               },
               "parameters": [
-                "InventoryOpen",
-                "=",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "NumberVariable"
-              },
-              "parameters": [
-                "Selected_ESP32",
-                "=",
-                "1"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
                 "Selected_ESP32",
                 "=",
                 "0"
               ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "SelectedCount",
-                "-",
-                "1"
-              ]
-            },
+            }
+          ],
+          "actions": [
             {
               "type": {
                 "value": "OpacityCapability::OpacityBehavior::SetValue"
@@ -7258,8 +7851,1187 @@
                 "=",
                 "180"
               ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Selected_ESP32",
+                "=",
+                "1"
+              ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "esp32",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "InventoryOpen",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "debug",
+                "Text",
+                "=",
+                "\"InventoryOpen: \" + ToString(Variable(InventoryOpen)) +\n\" | SelectedCount: \" + ToString(Variable(SelectedCount)) +\n\" | Selected_ESP32: \" + ToString(Variable(Selected_ESP32))"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_ESP32",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "<=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "esp32",
+                    "Opacity",
+                    "=",
+                    "180"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_ESP32",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "+",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Else",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_ESP32",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "esp32",
+                    "Opacity",
+                    "=",
+                    "255"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_ESP32",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "-",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "soilmoist",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "InventoryOpen",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_SoilMoist",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "<=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "soilmoist",
+                    "Opacity",
+                    "=",
+                    "180"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_SoilMoist",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "+",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Else",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_SoilMoist",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "soilmoist",
+                    "Opacity",
+                    "=",
+                    "255"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_SoilMoist",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "-",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "relay",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "InventoryOpen",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_Relay",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "<=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "relay",
+                    "Opacity",
+                    "=",
+                    "180"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_Relay",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "+",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Else",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_Relay",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "relay",
+                    "Opacity",
+                    "=",
+                    "255"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_Relay",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "-",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "waterpump",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "InventoryOpen",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_WaterPump",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "<=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "waterpump",
+                    "Opacity",
+                    "=",
+                    "180"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_WaterPump",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "+",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Else",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_WaterPump",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "waterpump",
+                    "Opacity",
+                    "=",
+                    "255"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_WaterPump",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "-",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "raspi",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "InventoryOpen",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_Raspi",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "<=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "raspi",
+                    "Opacity",
+                    "=",
+                    "180"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_Raspi",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "+",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Else",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_Raspi",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "raspi",
+                    "Opacity",
+                    "=",
+                    "255"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_Raspi",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "-",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "wifi",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "InventoryOpen",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_WiFi",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "<=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "wifi",
+                    "Opacity",
+                    "=",
+                    "180"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_WiFi",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "+",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Else",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_WiFi",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "wifi",
+                    "Opacity",
+                    "=",
+                    "255"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_WiFi",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "-",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "pico",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "InventoryOpen",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_Pico",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "<=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "pico",
+                    "Opacity",
+                    "=",
+                    "180"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_Pico",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "+",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Else",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_Pico",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "pico",
+                    "Opacity",
+                    "=",
+                    "255"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_Pico",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "-",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "lan",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "InventoryOpen",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_LAN",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "<=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "lan",
+                    "Opacity",
+                    "=",
+                    "180"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_LAN",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "+",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Else",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_LAN",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "lan",
+                    "Opacity",
+                    "=",
+                    "255"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Selected_LAN",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "SelectedCount",
+                    "-",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
