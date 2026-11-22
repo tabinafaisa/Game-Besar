@@ -827,6 +827,198 @@
         "name": "Komponen dan Rangkaian Gagal (1).png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "Neon Wiring System UI Asset Sheet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Neon Wiring System UI Asset Sheet.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Fix the Circuit Neon Panel.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fix the Circuit Neon Panel.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Fix_the_Circuit_Neon_Panel-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fix_the_Circuit_Neon_Panel-removebg-preview.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "esp32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "esp32.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "relay.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "relay.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "soil_moisture.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "soil_moisture.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "water_pump2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "water_pump2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "../../../../../Downloads/Neon_Wiring_Assets_34_item/transparan/01_port_normal_merah.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../../../../Downloads/Neon_Wiring_Assets_34_item/transparan/01_port_normal_merah.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "01_port_normal_merah2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "01_port_normal_merah2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "02_port_normal_kuning2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "02_port_normal_kuning2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "03_port_normal_cyan2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "03_port_normal_cyan2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "04_port_normal_hitam2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "04_port_normal_hitam2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "02_port_normal_kuning3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "02_port_normal_kuning3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "03_port_normal_cyan3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "03_port_normal_cyan3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "04_port_normal_hitam3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "04_port_normal_hitam3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "13_ghost_lurus2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "13_ghost_lurus2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "14_ghost_siku_L2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "14_ghost_siku_L2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "../../../../../Downloads/Neon_Wiring_Assets_34_item/transparan/18_ghost_plus.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../../../../Downloads/Neon_Wiring_Assets_34_item/transparan/18_ghost_plus.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "13_ghost_vertikal.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "13_ghost_vertikal.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "14_ghost_huruf_L.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "14_ghost_huruf_L.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "kabel_sementara_horizontal.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "kabel_sementara_horizontal.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "kabel_sementara_vertikal.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "kabel_sementara_vertikal.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "kabel_terhubung_horizontal.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "kabel_terhubung_horizontal.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "kabel_terhubung_vertikal.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "kabel_terhubung_vertikal.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -860,7 +1052,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5580983064507617,
+        "zoomFactor": 0.7935310315619845,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -2591,8 +2783,8 @@
           "name": "panelinventory",
           "persistentUuid": "002a288d-fa3a-445f-a6da-a193fdf58a14",
           "width": 879,
-          "x": 239,
-          "y": 91,
+          "x": 248,
+          "y": 85,
           "zOrder": 31,
           "numberProperties": [],
           "stringProperties": [],
@@ -2818,6 +3010,2324 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "DEBUG",
+          "persistentUuid": "e6fe9a14-5bb1-4b14-8819-2cb0f5cdeb00",
+          "width": 0,
+          "x": -219,
+          "y": 400,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "debugesp",
+          "persistentUuid": "51851730-6c2e-4f24-a561-e19b704f530f",
+          "width": 0,
+          "x": 526,
+          "y": 436,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "debugesp",
+          "persistentUuid": "435c9033-b4d8-4d8e-9c49-aff37e1f9078",
+          "width": 0,
+          "x": 420,
+          "y": 481,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "debugesp",
+          "persistentUuid": "6324e17c-b289-445d-9d87-6dd86b6d74fc",
+          "width": 0,
+          "x": -218,
+          "y": 438,
+          "zOrder": 55,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "debugsoil",
+          "persistentUuid": "e53468a4-f21e-4725-b890-b2eee9c62689",
+          "width": 0,
+          "x": -217,
+          "y": 476,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "debugrelay",
+          "persistentUuid": "42f62175-f5c0-4cf6-8d41-014a5ca41651",
+          "width": 0,
+          "x": -217,
+          "y": 519,
+          "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "debuginventory",
+          "persistentUuid": "5366fac4-6019-4d9d-80cf-b3cfc0f46963",
+          "width": 0,
+          "x": -217,
+          "y": 560,
+          "zOrder": 58,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 575,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "meja",
+          "persistentUuid": "e2827d5f-9dfd-4b21-a8de-cded1fe77a2c",
+          "width": 994,
+          "x": 178,
+          "y": 93,
+          "zOrder": 59,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "depth": 1,
+          "height": 345,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "kit_esp32",
+          "persistentUuid": "82b61fa5-debd-4ed3-b74b-8f26afa2ebba",
+          "width": 199,
+          "x": 304,
+          "y": 241,
+          "zOrder": 60,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 102,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "kit_soilmoist",
+          "persistentUuid": "a8f222ea-d4fa-4bfa-b3c9-c1b9605a5038",
+          "width": 238,
+          "x": 604,
+          "y": 229,
+          "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 91,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "kit_relay",
+          "persistentUuid": "9c9cf9f7-5bca-4206-a334-23fd3a4b855b",
+          "width": 229,
+          "x": 604,
+          "y": 483,
+          "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 112,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "kit_waterpump",
+          "persistentUuid": "033d214d-4a8d-45bc-b9c8-05d220ec9fb6",
+          "width": 227,
+          "x": 870,
+          "y": 336,
+          "zOrder": 63,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 19,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "portmerah",
+          "persistentUuid": "91a2a13c-0278-4fd6-9116-402067170327",
+          "width": 16,
+          "x": 616,
+          "y": 260,
+          "zOrder": 64,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "PortID",
+              "persistentUuid": "1c3929d1-e76d-451f-b500-2471f4fb4826",
+              "type": "string",
+              "value": "soil_vcc"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 17,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "portmerah",
+          "persistentUuid": "5a6b69ed-d721-4907-a90d-39ac167931b9",
+          "width": 15,
+          "x": 616,
+          "y": 507,
+          "zOrder": 67,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "PortID",
+              "persistentUuid": "1c3929d1-e76d-451f-b500-2471f4fb4826",
+              "type": "string",
+              "value": "relay_vcc"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 18,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "portmerah",
+          "persistentUuid": "5a348ca8-0350-4217-9998-176d85bb731a",
+          "width": 16,
+          "x": 816,
+          "y": 504,
+          "zOrder": 64,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 17,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "portmerah",
+          "persistentUuid": "a222664d-79ba-45b6-a66b-aa5af50e72a8",
+          "width": 16,
+          "x": 509,
+          "y": 450,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "PortID",
+              "persistentUuid": "1c3929d1-e76d-451f-b500-2471f4fb4826",
+              "type": "string",
+              "value": "esp_vin"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 17,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "portmerah",
+          "persistentUuid": "8d264371-7a6e-471d-aa44-d23fef86ef20",
+          "width": 16,
+          "x": 509,
+          "y": 361,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "PortID",
+              "persistentUuid": "1c3929d1-e76d-451f-b500-2471f4fb4826",
+              "type": "string",
+              "value": "esp3v3"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "portmerah",
+          "persistentUuid": "8d3eeb1e-c244-4478-9a46-fdeb47ce0e23",
+          "width": 14,
+          "x": 867,
+          "y": 388,
+          "zOrder": 64,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "PortID",
+              "persistentUuid": "1c3929d1-e76d-451f-b500-2471f4fb4826",
+              "type": "string",
+              "value": "pump_positive"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "23e97e1c-1d36-4ef0-b621-600a758f8562",
+          "width": 41,
+          "x": 584,
+          "y": 264,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 39,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_ghostwired",
+          "persistentUuid": "a36e4e7b-e8e2-4f82-a6aa-1bb8439e0c0b",
+          "width": 10,
+          "x": 515,
+          "y": 293,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 33,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_ghostwired",
+          "persistentUuid": "0929abf8-fbcd-4c86-b938-bfdfe84607e2",
+          "width": 9,
+          "x": 482,
+          "y": 297,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "4e4c3618-ec37-4e2a-af50-73d515a8c4d2",
+          "width": 34,
+          "x": 553,
+          "y": 264,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 10,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "a6c55f95-ef32-43e5-a598-93b022c75896",
+          "width": 39,
+          "x": 585,
+          "y": 280,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 10,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "d70ec516-90a9-4c68-8a4a-aa49e6902118",
+          "width": 43,
+          "x": 582,
+          "y": 296,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 9,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "e7bafb7f-ba4a-4f63-bdda-28ab6207657f",
+          "width": 31,
+          "x": 591,
+          "y": 511,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 31,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_ghostwired",
+          "persistentUuid": "2a186351-5fa0-46ac-b504-5dbbef7517bf",
+          "width": 8,
+          "x": 499,
+          "y": 499,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "e7a1d1df-0a28-42e3-b691-07e1e8560c67",
+          "width": 36,
+          "x": 522,
+          "y": 526,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "3887d1c4-6bae-480a-9146-ffaae5456ccc",
+          "width": 36,
+          "x": 584,
+          "y": 526,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "d1aa1140-d749-4046-a4a9-1294a147e253",
+          "width": 36,
+          "x": 553,
+          "y": 526,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "7849ee99-bcc5-4600-91ba-89ba75862f47",
+          "width": 36,
+          "x": 584,
+          "y": 539,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 36,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_ghostwired",
+          "persistentUuid": "cae76990-4b91-4122-a59e-067b314028dc",
+          "width": 9,
+          "x": 391,
+          "y": 492,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "a710a411-129d-49de-8ca5-c568da614915",
+          "width": 36,
+          "x": 551,
+          "y": 539,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "df320004-15bb-41ea-a2ad-b15d16866bf0",
+          "width": 36,
+          "x": 519,
+          "y": 539,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "5531b018-0725-4b45-8ab4-27ad035ae149",
+          "width": 36,
+          "x": 488,
+          "y": 539,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "eb6a75a5-6429-40af-96e3-b0881b7d2df1",
+          "width": 36,
+          "x": 457,
+          "y": 539,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "2f20b342-1236-48c9-8589-fed360a6605c",
+          "width": 36,
+          "x": 426,
+          "y": 539,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "d7f2607d-24af-4a92-947e-cd30e903e550",
+          "width": 36,
+          "x": 395,
+          "y": 539,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 34,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_ghostwired",
+          "persistentUuid": "6de41282-c7d2-4b20-8647-3b5c48a711d3",
+          "width": 8,
+          "x": 849,
+          "y": 393,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 7,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "1f532039-a59f-41f4-b0f9-3fd4c110c06b",
+          "width": 33,
+          "x": 823,
+          "y": 509,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 41,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_ghostwired",
+          "persistentUuid": "306afd47-96a2-44f3-96ac-2fc5387db594",
+          "width": 10,
+          "x": 868,
+          "y": 417,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 41,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_ghostwired",
+          "persistentUuid": "d07c54f5-4b4e-4379-8f89-2259ab69b872",
+          "width": 10,
+          "x": 868,
+          "y": 455,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 41,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_ghostwired",
+          "persistentUuid": "472f7060-d846-46ae-8df2-40b1f8b5d839",
+          "width": 10,
+          "x": 868,
+          "y": 492,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "7530be38-a074-49eb-9b73-bd669ed4e736",
+          "width": 33,
+          "x": 823,
+          "y": 525,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "80c44187-5a6e-45f0-ae8a-ca28eb3042e1",
+          "width": 31,
+          "x": 846,
+          "y": 525,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "eab4bf21-2fc0-40af-865e-162ddeef43aa",
+          "width": 41,
+          "x": 516,
+          "y": 264,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 39,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_ghostwired",
+          "persistentUuid": "894412ed-2da7-4d79-af9a-d07235fc4085",
+          "width": 10,
+          "x": 515,
+          "y": 265,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 10,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "a4845fec-a9fc-4429-8a24-f6186a69a7b6",
+          "width": 39,
+          "x": 550,
+          "y": 280,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 10,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "9f46b191-a4a0-4c09-8a3a-e51fbff3d862",
+          "width": 39,
+          "x": 517,
+          "y": 280,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 10,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "824b2262-2701-4d4a-ad29-75019bd810af",
+          "width": 39,
+          "x": 485,
+          "y": 280,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 33,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_ghostwired",
+          "persistentUuid": "f8953cee-82b6-4603-b090-d2a7ea45f8a4",
+          "width": 9,
+          "x": 482,
+          "y": 281,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 10,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "7257d976-7641-4dec-bff8-9e0bbef09b31",
+          "width": 43,
+          "x": 545,
+          "y": 296,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 10,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "b28f7120-8808-4c47-8218-220f1003f523",
+          "width": 43,
+          "x": 507,
+          "y": 296,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 10,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "dcca2e8d-49e5-4664-9f36-af1c2ac3c899",
+          "width": 43,
+          "x": 470,
+          "y": 296,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 10,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "c6e1bb7c-b070-4a14-b432-e10ee053a2d4",
+          "width": 43,
+          "x": 433,
+          "y": 296,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 10,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "3dfde0da-8083-4cea-98dc-a3833d6f93c6",
+          "width": 44,
+          "x": 395,
+          "y": 296,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 33,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_ghostwired",
+          "persistentUuid": "64a7c0c8-1245-42db-b044-fcf2e9716178",
+          "width": 9,
+          "x": 393,
+          "y": 298,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 36,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_ghostwired",
+          "persistentUuid": "fc331053-f1f8-4af7-984a-2358fe4fe7b3",
+          "width": 9,
+          "x": 391,
+          "y": 511,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 31,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_ghostwired",
+          "persistentUuid": "f8ed5988-c4ba-4a98-b428-525894055d32",
+          "width": 8,
+          "x": 514,
+          "y": 488,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 9,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "f3d52c5a-dc3f-4d25-a468-c0b42bcd4527",
+          "width": 31,
+          "x": 565,
+          "y": 511,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 9,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "13639d71-c5e5-45b8-818d-e2b54681ffcf",
+          "width": 31,
+          "x": 540,
+          "y": 511,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 9,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "ad87aa57-a5ce-4890-abf0-4a5186c7a575",
+          "width": 31,
+          "x": 516,
+          "y": 511,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "5779c495-53bd-48b1-9a1c-1130ac8044f0",
+          "width": 30,
+          "x": 499,
+          "y": 526,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_ghostwired",
+          "persistentUuid": "33c16eae-02be-4789-950c-684c9d052522",
+          "width": 24,
+          "x": 850,
+          "y": 392,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 34,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_ghostwired",
+          "persistentUuid": "014d7e24-415f-4c74-a2d9-c36ae0d6ad1a",
+          "width": 8,
+          "x": 849,
+          "y": 423,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_ghostwired",
+          "persistentUuid": "5c99f654-2e14-4fa3-9c7a-fade8b3c6d71",
+          "width": 8,
+          "x": 849,
+          "y": 453,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 33,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_ghostwired",
+          "persistentUuid": "c61c981b-e530-464a-8668-2a62c9cc6a40",
+          "width": 8,
+          "x": 849,
+          "y": 482,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 57,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_temporary",
+          "persistentUuid": "6d808206-ee2b-49fa-9b2d-1bb67b21874e",
+          "width": 9,
+          "x": 391,
+          "y": 491,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 37,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_temporary",
+          "persistentUuid": "02becb51-efa2-4e6f-8e00-ca3aadc502fd",
+          "width": 9,
+          "x": 499,
+          "y": 496,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 33,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_temporary",
+          "persistentUuid": "1820cd22-8108-4302-b0d7-340457758e95",
+          "width": 9,
+          "x": 514,
+          "y": 487,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 36,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_temporary",
+          "persistentUuid": "21659448-45c7-4a0f-9994-28d5ae3535ca",
+          "width": 9,
+          "x": 393,
+          "y": 296,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 53,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_temporary",
+          "persistentUuid": "1607e5a2-a92e-4e1b-afe0-bc98e57d07b5",
+          "width": 9,
+          "x": 482,
+          "y": 279,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 71,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_temporary",
+          "persistentUuid": "d55a6f09-861a-4458-97e2-775a089a4b15",
+          "width": 9,
+          "x": 515,
+          "y": 263,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 71,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_temporary",
+          "persistentUuid": "e42f1754-cc8d-4da8-82ef-9f5961db67dc",
+          "width": 9,
+          "x": 849,
+          "y": 389,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 71,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_temporary",
+          "persistentUuid": "9163c31c-db68-4963-a104-8c8f38cc8787",
+          "width": 9,
+          "x": 849,
+          "y": 447,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 71,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_temporary",
+          "persistentUuid": "c723df12-aadd-48bb-92fc-f0cf4339ef9c",
+          "width": 9,
+          "x": 868,
+          "y": 415,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 71,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_temporary",
+          "persistentUuid": "7427183f-fa06-4e2a-af0b-703962f838fa",
+          "width": 9,
+          "x": 868,
+          "y": 464,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_temporary",
+          "persistentUuid": "64d0319a-cf47-4097-bf16-c95351a642f4",
+          "width": 53,
+          "x": 823,
+          "y": 525,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_temporary",
+          "persistentUuid": "cf1a6acf-4295-416b-86a6-06d57f2615f3",
+          "width": 34,
+          "x": 823,
+          "y": 508,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_temporary",
+          "persistentUuid": "6fa9abaf-e7b7-48bb-b633-751b0ea33a19",
+          "width": 23,
+          "x": 851,
+          "y": 391,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_temporary",
+          "persistentUuid": "2f62c5cd-1357-40b9-97e8-160cb8147f9b",
+          "width": 56,
+          "x": 515,
+          "y": 512,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_temporary",
+          "persistentUuid": "5cad977c-9279-4ee9-b0be-64367daef95a",
+          "width": 58,
+          "x": 564,
+          "y": 512,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_temporary",
+          "persistentUuid": "6e481332-f9d4-4742-a1a4-c9f33d50c241",
+          "width": 64,
+          "x": 499,
+          "y": 526,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_temporary",
+          "persistentUuid": "ebe231ca-2a0b-4ac3-9b22-fe5515379198",
+          "width": 65,
+          "x": 556,
+          "y": 526,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_temporary",
+          "persistentUuid": "015603ea-e65f-4667-ace9-0132e4fcffa7",
+          "width": 64,
+          "x": 557,
+          "y": 539,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_temporary",
+          "persistentUuid": "e06c7c20-b51d-468e-9454-0468eb0979e7",
+          "width": 64,
+          "x": 499,
+          "y": 539,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_temporary",
+          "persistentUuid": "de78e0c1-a577-4b21-877c-64f931685230",
+          "width": 64,
+          "x": 442,
+          "y": 539,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_temporary",
+          "persistentUuid": "2f18cb80-3d1f-4f82-9b77-af94f1b4b720",
+          "width": 64,
+          "x": 392,
+          "y": 539,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_temporary",
+          "persistentUuid": "18f7a5a3-3027-41e8-91f6-06253e094480",
+          "width": 64,
+          "x": 393,
+          "y": 296,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_temporary",
+          "persistentUuid": "143ee573-f1b9-4858-aa2e-3338166d9575",
+          "width": 64,
+          "x": 450,
+          "y": 296,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_temporary",
+          "persistentUuid": "87996395-14f8-434d-9e1b-1e56ed44ba18",
+          "width": 64,
+          "x": 504,
+          "y": 296,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_temporary",
+          "persistentUuid": "6ee82b0f-31f7-463b-9de7-c2d03413e6a5",
+          "width": 64,
+          "x": 560,
+          "y": 296,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_temporary",
+          "persistentUuid": "c074890e-7d8d-4d30-92e9-383105246683",
+          "width": 64,
+          "x": 483,
+          "y": 280,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_temporary",
+          "persistentUuid": "285a9276-cede-4928-859f-fcf4daa56dad",
+          "width": 64,
+          "x": 525,
+          "y": 280,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_temporary",
+          "persistentUuid": "b321ab6a-658f-483a-9256-0dd5822bb4a2",
+          "width": 64,
+          "x": 560,
+          "y": 280,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_temporary",
+          "persistentUuid": "54449568-f886-4030-945b-375af1ed8bb1",
+          "width": 64,
+          "x": 516,
+          "y": 265,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_temporary",
+          "persistentUuid": "373b5be7-5ffe-4839-9e01-402f5fcffd15",
+          "width": 64,
+          "x": 562,
+          "y": 265,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 36,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_connected",
+          "persistentUuid": "329e9257-99cb-4cf2-9d52-a247475ed608",
+          "width": 9,
+          "x": 393,
+          "y": 296,
+          "zOrder": 79,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 52,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_connected",
+          "persistentUuid": "751b976f-0fe9-4f79-815f-f56fc095da4e",
+          "width": 9,
+          "x": 482,
+          "y": 280,
+          "zOrder": 79,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 70,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_connected",
+          "persistentUuid": "9a624de5-0a84-48b0-996b-9e888a47e3d6",
+          "width": 9,
+          "x": 515,
+          "y": 264,
+          "zOrder": 79,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 36,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_connected",
+          "persistentUuid": "290d5cd0-2554-441f-a220-4ea4c6b4225b",
+          "width": 9,
+          "x": 514,
+          "y": 484,
+          "zOrder": 79,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 38,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_connected",
+          "persistentUuid": "1b333d1f-e55d-477b-a6bf-2cbc19e38f52",
+          "width": 9,
+          "x": 499,
+          "y": 496,
+          "zOrder": 79,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 57,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_connected",
+          "persistentUuid": "50278c9b-f27c-462d-888c-d7c09df0bd50",
+          "width": 9,
+          "x": 391,
+          "y": 490,
+          "zOrder": 79,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 68,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_connected",
+          "persistentUuid": "3871bf8a-be85-4cc6-97ab-62c4edcf9622",
+          "width": 9,
+          "x": 849,
+          "y": 391,
+          "zOrder": 79,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 69,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_connected",
+          "persistentUuid": "b0e1b4e8-674f-4189-8885-947e0c4ecdf8",
+          "width": 9,
+          "x": 849,
+          "y": 448,
+          "zOrder": 79,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 68,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_connected",
+          "persistentUuid": "a38da09d-c84a-4cd2-af72-3cfddc23ffa7",
+          "width": 9,
+          "x": 868,
+          "y": 415,
+          "zOrder": 79,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 68,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "v_connected",
+          "persistentUuid": "12e57cc4-1058-4927-b1bf-1a3ff6e88a59",
+          "width": 9,
+          "x": 868,
+          "y": 466,
+          "zOrder": 79,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_connected",
+          "persistentUuid": "80e6f3de-7bf2-4199-ae86-462e7e90544e",
+          "width": 66,
+          "x": 393,
+          "y": 296,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_connected",
+          "persistentUuid": "a6281376-4937-4a5d-88b8-a9121727cde3",
+          "width": 66,
+          "x": 446,
+          "y": 296,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_connected",
+          "persistentUuid": "b035783c-2306-4b9d-ba24-3dfea81e6ecc",
+          "width": 66,
+          "x": 503,
+          "y": 296,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_connected",
+          "persistentUuid": "ac28e8ec-46f2-4ee8-87fb-ba69e9a29330",
+          "width": 66,
+          "x": 558,
+          "y": 296,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_connected",
+          "persistentUuid": "7c6149de-e17b-481f-be1f-8cee9f675937",
+          "width": 66,
+          "x": 558,
+          "y": 280,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_connected",
+          "persistentUuid": "c24395a1-4a5f-4df0-8528-770538acefe4",
+          "width": 66,
+          "x": 514,
+          "y": 280,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_connected",
+          "persistentUuid": "4817e264-83bf-484f-9c85-7f1e9b040452",
+          "width": 46,
+          "x": 482,
+          "y": 280,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_connected",
+          "persistentUuid": "4c362a06-9f78-4d90-965a-7410e41538dd",
+          "width": 109,
+          "x": 515,
+          "y": 265,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 7,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_connected",
+          "persistentUuid": "ff1aed25-0159-45fc-81ce-fbeb36d8c63f",
+          "width": 23,
+          "x": 851,
+          "y": 392,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_connected",
+          "persistentUuid": "7659b63d-b695-46f8-a542-71d732b43d59",
+          "width": 33,
+          "x": 823,
+          "y": 508,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_connected",
+          "persistentUuid": "5be4de60-783b-4e58-a363-2b128f5af262",
+          "width": 52,
+          "x": 824,
+          "y": 525,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_connected",
+          "persistentUuid": "68bded58-0351-427a-bcc4-f00a2c3830c3",
+          "width": 108,
+          "x": 516,
+          "y": 512,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_connected",
+          "persistentUuid": "04f0a2cd-6266-4951-8c53-c0e3d31ba0ec",
+          "width": 124,
+          "x": 498,
+          "y": 526,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_connected",
+          "persistentUuid": "989cea11-a8be-4642-86a7-76f162e741c9",
+          "width": 124,
+          "x": 390,
+          "y": 539,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 17,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "portmerah",
+          "persistentUuid": "9efc17bd-4d34-48ae-acab-6e2797704c3a",
+          "width": 16,
+          "x": 616,
+          "y": 277,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "PortID",
+              "persistentUuid": "1c3929d1-e76d-451f-b500-2471f4fb4826",
+              "type": "string",
+              "value": "soil_ao"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 17,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "portmerah",
+          "persistentUuid": "1470a54c-4b16-4756-9f64-f078471705d2",
+          "width": 16,
+          "x": 616,
+          "y": 293,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "PortID",
+              "persistentUuid": "1c3929d1-e76d-451f-b500-2471f4fb4826",
+              "type": "string",
+              "value": "soil_gnd"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 17,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "portmerah",
+          "persistentUuid": "04f0a8ae-b0e7-4d68-8fe6-d7082f2e2385",
+          "width": 16,
+          "x": 493,
+          "y": 450,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "PortID",
+              "persistentUuid": "1c3929d1-e76d-451f-b500-2471f4fb4826",
+              "type": "string",
+              "value": "esp_gpio23"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 17,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "portmerah",
+          "persistentUuid": "4bc38761-b1f6-468b-a7e5-cf03ea1847de",
+          "width": 16,
+          "x": 478,
+          "y": 361,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "PortID",
+              "persistentUuid": "1c3929d1-e76d-451f-b500-2471f4fb4826",
+              "type": "string",
+              "value": "esp_gpio34"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 17,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "portmerah",
+          "persistentUuid": "a6004621-eeff-4bb9-af60-eb8c6bb54f6c",
+          "width": 16,
+          "x": 389,
+          "y": 361,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "PortID",
+              "persistentUuid": "1c3929d1-e76d-451f-b500-2471f4fb4826",
+              "type": "string",
+              "value": "esp_gnd_sensor"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 17,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "portmerah",
+          "persistentUuid": "a906f86e-1b28-435c-a73a-f8efb05192f8",
+          "width": 16,
+          "x": 389,
+          "y": 451,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "PortID",
+              "persistentUuid": "1c3929d1-e76d-451f-b500-2471f4fb4826",
+              "type": "string",
+              "value": "esp_gnd_relay"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 17,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "portmerah",
+          "persistentUuid": "58a2b67b-f984-403d-bf37-cc7b1c2f6783",
+          "width": 15,
+          "x": 615,
+          "y": 521,
+          "zOrder": 67,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "PortID",
+              "persistentUuid": "1c3929d1-e76d-451f-b500-2471f4fb4826",
+              "type": "string",
+              "value": "relay_in"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 17,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "portmerah",
+          "persistentUuid": "93a773fb-4487-43f9-9455-6f6f4f9cada3",
+          "width": 15,
+          "x": 615,
+          "y": 535,
+          "zOrder": 67,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "PortID",
+              "persistentUuid": "1c3929d1-e76d-451f-b500-2471f4fb4826",
+              "type": "string",
+              "value": "relay_gnd"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "h_connected",
+          "persistentUuid": "f815dcd1-519e-436a-be0b-b96ead7d6db3",
+          "width": 124,
+          "x": 499,
+          "y": 539,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 18,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "portmerah",
+          "persistentUuid": "9f763c1f-e7c9-4488-9d13-af633b5228bb",
+          "width": 16,
+          "x": 817,
+          "y": 520,
+          "zOrder": 64,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "portmerah",
+          "persistentUuid": "f04e5c10-503a-45a3-a9e0-61a7c2cdda09",
+          "width": 14,
+          "x": 867,
+          "y": 409,
+          "zOrder": 64,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "PortID",
+              "persistentUuid": "1c3929d1-e76d-451f-b500-2471f4fb4826",
+              "type": "string",
+              "value": "pump_negative"
+            }
+          ]
         }
       ],
       "objects": [
@@ -3761,6 +6271,7 @@
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "jalan",
+          "persistentUuid": "9ca191d1-e925-4525-a332-d6ac9183578e",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -5594,6 +8105,1192 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "DEBUG",
+          "persistentUuid": "665b2d68-0f6f-4a99-97ff-589df0054089",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 30,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "debugesp",
+          "persistentUuid": "e0986bc6-88c2-4fa0-b569-a4ad06c00c0f",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 30,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "debugsoil",
+          "persistentUuid": "c446cacf-b1cc-4603-aa9f-a071c9f7afde",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 30,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "debugwp",
+          "persistentUuid": "b2d48aa9-e9a9-476a-8b8a-068c0673e82b",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 30,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "debugrelay",
+          "persistentUuid": "d8186c89-7952-4e47-bed1-d9e8caf0b33e",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 30,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "debuginventory",
+          "persistentUuid": "0051dd02-3f03-4241-9096-40db5d5b6cad",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 30,
+            "lineHeight": 0,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "meja",
+          "persistentUuid": "496fe5d6-0b80-4ae1-b487-30a1108b7231",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fix_the_Circuit_Neon_Panel-removebg-preview.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 3
+                          },
+                          {
+                            "x": 662,
+                            "y": 3
+                          },
+                          {
+                            "x": 662,
+                            "y": 367
+                          },
+                          {
+                            "x": 4,
+                            "y": 367
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "kit_esp32",
+          "persistentUuid": "ec390e00-b1d4-40be-8058-e1ab78c2758b",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "esp32.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 548,
+                            "y": 12
+                          },
+                          {
+                            "x": 548,
+                            "y": 821
+                          },
+                          {
+                            "x": 12,
+                            "y": 821
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "kit_relay",
+          "persistentUuid": "1a932054-9afa-43fa-910d-e62537ea96df",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "relay.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 622,
+                            "y": 12
+                          },
+                          {
+                            "x": 622,
+                            "y": 257
+                          },
+                          {
+                            "x": 12,
+                            "y": 257
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "kit_soilmoist",
+          "persistentUuid": "6bcacfbe-faa8-4717-a069-c49d76c814b9",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "soil_moisture.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 615,
+                            "y": 12
+                          },
+                          {
+                            "x": 615,
+                            "y": 268
+                          },
+                          {
+                            "x": 12,
+                            "y": 268
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "kit_waterpump",
+          "persistentUuid": "074f034a-f759-49c4-8a91-5082e2983120",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "water_pump2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 749,
+                            "y": 12
+                          },
+                          {
+                            "x": 749,
+                            "y": 317
+                          },
+                          {
+                            "x": 12,
+                            "y": 317
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "portmerah",
+          "persistentUuid": "762440a0-b800-4f6b-8e05-4dd57b8cfca6",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "PortID",
+              "persistentUuid": "1c3929d1-e76d-451f-b500-2471f4fb4826",
+              "type": "string",
+              "value": ""
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "1_port_normal_merah",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "01_port_normal_merah2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 16
+                          },
+                          {
+                            "x": 87,
+                            "y": 16
+                          },
+                          {
+                            "x": 87,
+                            "y": 94
+                          },
+                          {
+                            "x": 7,
+                            "y": 94
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "portkuning",
+          "persistentUuid": "8eca0956-ac6c-4777-99aa-6d3079d97740",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "02_port_normal_kuning3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 16
+                          },
+                          {
+                            "x": 88,
+                            "y": 16
+                          },
+                          {
+                            "x": 88,
+                            "y": 94
+                          },
+                          {
+                            "x": 8,
+                            "y": 94
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "portcyan",
+          "persistentUuid": "713b73a9-5094-48d8-a1ee-a46a7a5e8ea7",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "03_port_normal_cyan3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 16
+                          },
+                          {
+                            "x": 88,
+                            "y": 16
+                          },
+                          {
+                            "x": 88,
+                            "y": 94
+                          },
+                          {
+                            "x": 8,
+                            "y": 94
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "porthitam",
+          "persistentUuid": "1c8cc046-95f9-454e-9e9e-bcef815bc2b5",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "04_port_normal_hitam3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 16
+                          },
+                          {
+                            "x": 87,
+                            "y": 16
+                          },
+                          {
+                            "x": 87,
+                            "y": 94
+                          },
+                          {
+                            "x": 8,
+                            "y": 94
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "h_ghostwired",
+          "persistentUuid": "484127f5-1814-44ad-9810-03cd0b9f9ad1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "13_ghost_lurus2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 7
+                          },
+                          {
+                            "x": 241,
+                            "y": 7
+                          },
+                          {
+                            "x": 241,
+                            "y": 41
+                          },
+                          {
+                            "x": 7,
+                            "y": 41
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "v_ghostwired",
+          "persistentUuid": "9004509d-ea50-42a7-9cc8-1c651e9b77d5",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "13_ghost_vertikal.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 7
+                          },
+                          {
+                            "x": 41,
+                            "y": 7
+                          },
+                          {
+                            "x": 41,
+                            "y": 241
+                          },
+                          {
+                            "x": 7,
+                            "y": 241
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "h_temporary",
+          "persistentUuid": "02449d3d-4817-4bcc-a1ce-e39103065cdf",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "kabel_sementara_horizontal.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 767,
+                            "y": 12
+                          },
+                          {
+                            "x": 767,
+                            "y": 98
+                          },
+                          {
+                            "x": 12,
+                            "y": 98
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "v_temporary",
+          "persistentUuid": "f13664f5-4e1d-4aa3-b471-917c239f812f",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "kabel_sementara_vertikal.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 13
+                          },
+                          {
+                            "x": 102,
+                            "y": 13
+                          },
+                          {
+                            "x": 102,
+                            "y": 395
+                          },
+                          {
+                            "x": 12,
+                            "y": 395
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "h_connected",
+          "persistentUuid": "dc72e38e-6666-46ff-935c-79cec3113654",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "kabel_terhubung_horizontal.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 769,
+                            "y": 12
+                          },
+                          {
+                            "x": 769,
+                            "y": 106
+                          },
+                          {
+                            "x": 12,
+                            "y": 106
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "v_connected",
+          "persistentUuid": "93c0a70e-552e-4d4e-bbe1-22271440699a",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "kabel_terhubung_vertikal.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 104,
+                            "y": 12
+                          },
+                          {
+                            "x": 104,
+                            "y": 397
+                          },
+                          {
+                            "x": 12,
+                            "y": 397
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -5703,6 +9400,69 @@
           },
           {
             "objectName": "komponensalah"
+          },
+          {
+            "objectName": "DEBUG"
+          },
+          {
+            "objectName": "debugesp"
+          },
+          {
+            "objectName": "debugsoil"
+          },
+          {
+            "objectName": "debugwp"
+          },
+          {
+            "objectName": "debugrelay"
+          },
+          {
+            "objectName": "debuginventory"
+          },
+          {
+            "objectName": "meja"
+          },
+          {
+            "objectName": "portmerah"
+          },
+          {
+            "objectName": "portkuning"
+          },
+          {
+            "objectName": "portcyan"
+          },
+          {
+            "objectName": "porthitam"
+          },
+          {
+            "objectName": "kit_esp32"
+          },
+          {
+            "objectName": "kit_relay"
+          },
+          {
+            "objectName": "kit_soilmoist"
+          },
+          {
+            "objectName": "kit_waterpump"
+          },
+          {
+            "objectName": "h_ghostwired"
+          },
+          {
+            "objectName": "v_ghostwired"
+          },
+          {
+            "objectName": "h_temporary"
+          },
+          {
+            "objectName": "v_temporary"
+          },
+          {
+            "objectName": "h_connected"
+          },
+          {
+            "objectName": "v_connected"
           }
         ]
       },
@@ -6885,6 +10645,54 @@
               "parameters": [
                 "checkcircuit"
               ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "meja"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "kit_esp32"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "esp32"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "kit_relay"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "kit_soilmoist"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "kit_waterpump"
+              ]
             }
           ]
         },
@@ -7562,256 +11370,6 @@
           ]
         },
         {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyFromTextPressed"
-              },
-              "parameters": [
-                "",
-                "\"Return\""
-              ]
-            },
-            {
-              "type": {
-                "value": "NumberVariable"
-              },
-              "parameters": [
-                "StoryOpen",
-                "=",
-                "1"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Hide"
-              },
-              "parameters": [
-                "panel"
-              ]
-            },
-            {
-              "type": {
-                "value": "Hide"
-              },
-              "parameters": [
-                "JudulPanel"
-              ]
-            },
-            {
-              "type": {
-                "value": "Hide"
-              },
-              "parameters": [
-                "Teks1Level1"
-              ]
-            },
-            {
-              "type": {
-                "value": "Show"
-              },
-              "parameters": [
-                "panelinventory",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Show"
-              },
-              "parameters": [
-                "esp32",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Show"
-              },
-              "parameters": [
-                "soilmoist",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Show"
-              },
-              "parameters": [
-                "raspi",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Show"
-              },
-              "parameters": [
-                "waterpump",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Show"
-              },
-              "parameters": [
-                "relay",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Show"
-              },
-              "parameters": [
-                "lan",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Show"
-              },
-              "parameters": [
-                "wifi",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Show"
-              },
-              "parameters": [
-                "pico",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "esp32",
-                "Opacity",
-                "=",
-                "180"
-              ]
-            },
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "soilmoist",
-                "Opacity",
-                "=",
-                "180"
-              ]
-            },
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "raspi",
-                "Opacity",
-                "=",
-                "180"
-              ]
-            },
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "waterpump",
-                "Opacity",
-                "=",
-                "180"
-              ]
-            },
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "relay",
-                "Opacity",
-                "=",
-                "180"
-              ]
-            },
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "lan",
-                "Opacity",
-                "=",
-                "180"
-              ]
-            },
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "wifi",
-                "Opacity",
-                "=",
-                "180"
-              ]
-            },
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "pico",
-                "Opacity",
-                "=",
-                "180"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "StoryOpen",
-                "=",
-                "0"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "InventoryOpen",
-                "=",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "SelectedCount",
-                "=",
-                "0"
-              ]
-            }
-          ]
-        },
-        {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -7951,8 +11509,8 @@
                   },
                   "parameters": [
                     "SelectedCount",
-                    "<=",
-                    "3"
+                    "<",
+                    "4"
                   ]
                 }
               ],
@@ -7975,16 +11533,6 @@
                   "parameters": [
                     "Selected_ESP32",
                     "=",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "SelectedCount",
-                    "+",
                     "1"
                   ]
                 }
@@ -8024,16 +11572,6 @@
                     "Selected_ESP32",
                     "=",
                     "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "SelectedCount",
-                    "-",
-                    "1"
                   ]
                 }
               ]
@@ -8095,8 +11633,8 @@
                   },
                   "parameters": [
                     "SelectedCount",
-                    "<=",
-                    "3"
+                    "<",
+                    "4"
                   ]
                 }
               ],
@@ -8119,16 +11657,6 @@
                   "parameters": [
                     "Selected_SoilMoist",
                     "=",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "SelectedCount",
-                    "+",
                     "1"
                   ]
                 }
@@ -8168,16 +11696,6 @@
                     "Selected_SoilMoist",
                     "=",
                     "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "SelectedCount",
-                    "-",
-                    "1"
                   ]
                 }
               ]
@@ -8239,8 +11757,8 @@
                   },
                   "parameters": [
                     "SelectedCount",
-                    "<=",
-                    "3"
+                    "<",
+                    "4"
                   ]
                 }
               ],
@@ -8263,16 +11781,6 @@
                   "parameters": [
                     "Selected_Relay",
                     "=",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "SelectedCount",
-                    "+",
                     "1"
                   ]
                 }
@@ -8312,16 +11820,6 @@
                     "Selected_Relay",
                     "=",
                     "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "SelectedCount",
-                    "-",
-                    "1"
                   ]
                 }
               ]
@@ -8383,8 +11881,8 @@
                   },
                   "parameters": [
                     "SelectedCount",
-                    "<=",
-                    "3"
+                    "<",
+                    "4"
                   ]
                 }
               ],
@@ -8407,16 +11905,6 @@
                   "parameters": [
                     "Selected_WaterPump",
                     "=",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "SelectedCount",
-                    "+",
                     "1"
                   ]
                 }
@@ -8456,16 +11944,6 @@
                     "Selected_WaterPump",
                     "=",
                     "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "SelectedCount",
-                    "-",
-                    "1"
                   ]
                 }
               ]
@@ -8527,8 +12005,8 @@
                   },
                   "parameters": [
                     "SelectedCount",
-                    "<=",
-                    "3"
+                    "<",
+                    "4"
                   ]
                 }
               ],
@@ -8551,16 +12029,6 @@
                   "parameters": [
                     "Selected_Raspi",
                     "=",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "SelectedCount",
-                    "+",
                     "1"
                   ]
                 }
@@ -8600,16 +12068,6 @@
                     "Selected_Raspi",
                     "=",
                     "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "SelectedCount",
-                    "-",
-                    "1"
                   ]
                 }
               ]
@@ -8671,8 +12129,8 @@
                   },
                   "parameters": [
                     "SelectedCount",
-                    "<=",
-                    "3"
+                    "<",
+                    "4"
                   ]
                 }
               ],
@@ -8695,16 +12153,6 @@
                   "parameters": [
                     "Selected_WiFi",
                     "=",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "SelectedCount",
-                    "+",
                     "1"
                   ]
                 }
@@ -8744,16 +12192,6 @@
                     "Selected_WiFi",
                     "=",
                     "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "SelectedCount",
-                    "-",
-                    "1"
                   ]
                 }
               ]
@@ -8815,8 +12253,8 @@
                   },
                   "parameters": [
                     "SelectedCount",
-                    "<=",
-                    "3"
+                    "<",
+                    "4"
                   ]
                 }
               ],
@@ -8839,16 +12277,6 @@
                   "parameters": [
                     "Selected_Pico",
                     "=",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "SelectedCount",
-                    "+",
                     "1"
                   ]
                 }
@@ -8888,16 +12316,6 @@
                     "Selected_Pico",
                     "=",
                     "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "SelectedCount",
-                    "-",
-                    "1"
                   ]
                 }
               ]
@@ -8959,8 +12377,8 @@
                   },
                   "parameters": [
                     "SelectedCount",
-                    "<=",
-                    "3"
+                    "<",
+                    "4"
                   ]
                 }
               ],
@@ -8983,16 +12401,6 @@
                   "parameters": [
                     "Selected_LAN",
                     "=",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "SelectedCount",
-                    "+",
                     "1"
                   ]
                 }
@@ -9032,16 +12440,6 @@
                     "Selected_LAN",
                     "=",
                     "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "SelectedCount",
-                    "-",
-                    "1"
                   ]
                 }
               ]
@@ -9286,6 +12684,14 @@
             },
             {
               "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "buttonulangi"
+              ]
+            },
+            {
+              "type": {
                 "value": "Show"
               },
               "parameters": [
@@ -9499,6 +12905,14 @@
             },
             {
               "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "buttonlanjut"
+              ]
+            },
+            {
+              "type": {
                 "value": "Show"
               },
               "parameters": [
@@ -9523,6 +12937,628 @@
                 "InventoryOpen",
                 "=",
                 "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "SelectedCount",
+                "=",
+                "Variable(Selected_ESP32)\n+ Variable(Selected_SoilMoist)\n+ Variable(Selected_Relay)\n+ Variable(Selected_WaterPump)\n+ Variable(Selected_Raspi)\n+ Variable(Selected_LAN)\n+ Variable(Selected_WiFi)\n+ Variable(Selected_Pico)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "buttonulangi",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "komponensalah"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "buttonulangi"
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "panelinventory",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "esp32",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "soilmoist",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "raspi",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "waterpump",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "relay",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "lan",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "wifi",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "pico",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "checkcircuit",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "SelectedCount",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "InventoryOpen",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "esp32",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "soilmoist",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "waterpump",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "relay",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "raspi",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "wifi",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "lan",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "pico",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Selected_ESP32",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Selected_Raspi",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Selected_SoilMoist",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Selected_WiFi",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Selected_Relay",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Selected_LAN",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Selected_Pico",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Selected_WaterPump",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "buttonlanjut",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Visible"
+              },
+              "parameters": [
+                "komponenbenar"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Visible"
+              },
+              "parameters": [
+                "komponensalah"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "komponenbenar"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "panelinventory"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "checkcircuit"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "esp32"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "soilmoist"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "waterpump"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "raspi"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "relay"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "lan"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "wifi"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "pico"
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "meja",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "kit_esp32",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "kit_relay",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "kit_soilmoist",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "kit_waterpump",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "DEBUG",
+                "Text",
+                "=",
+                "\"Jumlah Pilihan: \" + ToString(Variable(SelectedCount))"
+              ]
+            }
+          ]
+        },
+        {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "debugesp",
+                "Text",
+                "=",
+                "\"ESP32 Terpilih: \" + ToString(Variable(Selected_ESP32))"
+              ]
+            }
+          ]
+        },
+        {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "debugsoil",
+                "Text",
+                "=",
+                "\"Soil Moisture Terpilih: \" + ToString(Variable(Selected_SoilMoist))"
+              ]
+            }
+          ]
+        },
+        {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "debugrelay",
+                "Text",
+                "=",
+                "\"Relay Terpilih: \" + ToString(Variable(Selected_Relay))"
+              ]
+            }
+          ]
+        },
+        {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "debugwp",
+                "Text",
+                "=",
+                "\"Water Pump Terpilih: \" + ToString(Variable(Selected_WaterPump))"
+              ]
+            }
+          ]
+        },
+        {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "debuginventory",
+                "Text",
+                "=",
+                "\"Status Inventory: \" + ToString(Variable(InventoryOpen))"
               ]
             }
           ]
