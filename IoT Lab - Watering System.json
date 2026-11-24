@@ -1019,6 +1019,22 @@
         "name": "kabel_terhubung_vertikal.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "kabel_sementara_horizontal2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "kabel_sementara_horizontal2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Sci-Fi Check Assembly Button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sci-Fi Check Assembly Button.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -1052,7 +1068,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7935310315619845,
+        "zoomFactor": 0.37007827432664003,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -1206,6 +1222,90 @@
         {
           "name": "Score",
           "persistentUuid": "94f09b21-8142-440f-a673-5cfd1e26f724",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "IsDragging",
+          "persistentUuid": "9b46dcf5-7b27-40a0-a0b4-f5c171b104d3",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "StartPortID",
+          "persistentUuid": "c12c0455-e6fb-4f4f-8d88-79df4bf4e005",
+          "type": "string",
+          "value": ""
+        },
+        {
+          "name": "StartX",
+          "persistentUuid": "b021b6a3-3205-4916-a9cf-8e504f6093e9",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "StartY",
+          "persistentUuid": "71d61b34-536d-4bfa-a68b-41bef2d385f4",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "Wire_VCC_Connected",
+          "persistentUuid": "a1385f89-907f-4232-a413-9322bb1dff43",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "AssemblyOpen",
+          "persistentUuid": "adb26dfd-d1ea-436e-8d55-0571951fa886",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "koneksi_vcc_soil",
+          "persistentUuid": "46117679-5b16-4de4-9186-f8353d3477d5",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "koneksi_ao_soil",
+          "persistentUuid": "4e95ae83-c686-4be1-b6a9-693bc9355048",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "koneksi_gnd_soil",
+          "persistentUuid": "ae19b5ad-0b1b-43c1-9ae0-6b84f7249531",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "koneksi_vcc_relay",
+          "persistentUuid": "946c9032-54a1-4467-87a8-91667c15114f",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "koneksi_in_relay",
+          "persistentUuid": "08e85d82-8b9d-41a3-b828-7028c8284a9b",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "koneksi_gnd_relay",
+          "persistentUuid": "f4f412ce-88de-4246-8c69-8be98bdcddef",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "koneksi_no_relay",
+          "persistentUuid": "1b6331e8-cf2b-4a80-a950-90bd6d215350",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "koneksi_com_relay",
+          "persistentUuid": "1dad1239-38d4-4b1a-86c5-e58254946438",
           "type": "number",
           "value": 0
         }
@@ -3271,7 +3371,14 @@
           "zOrder": 64,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "PortID",
+              "persistentUuid": "1c3929d1-e76d-451f-b500-2471f4fb4826",
+              "type": "string",
+              "value": "relay_no"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -4686,7 +4793,13 @@
           "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "type": "string",
+              "value": "gnd_soil"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -4703,7 +4816,13 @@
           "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "type": "string",
+              "value": "ao_soil"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -4720,7 +4839,13 @@
           "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "type": "string",
+              "value": "vcc_soil"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -4737,7 +4862,13 @@
           "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "type": "string",
+              "value": "vcc_relay"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -4754,7 +4885,13 @@
           "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "type": "string",
+              "value": "in_relay"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -4771,7 +4908,13 @@
           "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "type": "string",
+              "value": "gnd_relay"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -4788,7 +4931,13 @@
           "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "type": "string",
+              "value": "no_relay"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -4805,7 +4954,13 @@
           "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "type": "string",
+              "value": "no_relay"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -4822,7 +4977,13 @@
           "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "type": "string",
+              "value": "com_relay"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -4839,7 +5000,13 @@
           "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "type": "string",
+              "value": "com_relay"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -4856,7 +5023,14 @@
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "persistentUuid": "d0e614b7-3820-49ac-98b3-fe983b4bf682",
+              "type": "string",
+              "value": "gnd_soil"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -4873,7 +5047,14 @@
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "persistentUuid": "d0e614b7-3820-49ac-98b3-fe983b4bf682",
+              "type": "string",
+              "value": "gnd_soil"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -4890,7 +5071,14 @@
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "persistentUuid": "d0e614b7-3820-49ac-98b3-fe983b4bf682",
+              "type": "string",
+              "value": "gnd_soil"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -4907,7 +5095,14 @@
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "persistentUuid": "d0e614b7-3820-49ac-98b3-fe983b4bf682",
+              "type": "string",
+              "value": "gnd_soil"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -4924,7 +5119,14 @@
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "persistentUuid": "d0e614b7-3820-49ac-98b3-fe983b4bf682",
+              "type": "string",
+              "value": "ao_soil"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -4941,7 +5143,14 @@
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "persistentUuid": "d0e614b7-3820-49ac-98b3-fe983b4bf682",
+              "type": "string",
+              "value": "ao_soil"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -4958,7 +5167,14 @@
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "persistentUuid": "d0e614b7-3820-49ac-98b3-fe983b4bf682",
+              "type": "string",
+              "value": "ao_soil"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -4975,7 +5191,14 @@
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "persistentUuid": "d0e614b7-3820-49ac-98b3-fe983b4bf682",
+              "type": "string",
+              "value": "vcc_soil"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -4992,7 +5215,14 @@
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "persistentUuid": "d0e614b7-3820-49ac-98b3-fe983b4bf682",
+              "type": "string",
+              "value": "no_relay"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -5009,7 +5239,14 @@
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "persistentUuid": "d0e614b7-3820-49ac-98b3-fe983b4bf682",
+              "type": "string",
+              "value": "no_relay"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -5026,7 +5263,14 @@
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "persistentUuid": "d0e614b7-3820-49ac-98b3-fe983b4bf682",
+              "type": "string",
+              "value": "com_relay"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -5043,7 +5287,14 @@
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "persistentUuid": "d0e614b7-3820-49ac-98b3-fe983b4bf682",
+              "type": "string",
+              "value": "vcc_relay"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -5060,7 +5311,14 @@
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "persistentUuid": "d0e614b7-3820-49ac-98b3-fe983b4bf682",
+              "type": "string",
+              "value": "in_relay"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -5077,7 +5335,14 @@
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "persistentUuid": "d0e614b7-3820-49ac-98b3-fe983b4bf682",
+              "type": "string",
+              "value": "gnd_relay"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -5286,7 +5551,14 @@
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "WireID",
+              "persistentUuid": "d0e614b7-3820-49ac-98b3-fe983b4bf682",
+              "type": "string",
+              "value": "gnd_relay"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -5303,7 +5575,14 @@
           "zOrder": 64,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "PortID",
+              "persistentUuid": "1c3929d1-e76d-451f-b500-2471f4fb4826",
+              "type": "string",
+              "value": "relay_com"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -5328,6 +5607,64 @@
               "value": "pump_negative"
             }
           ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 93,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "buttonassembly",
+          "persistentUuid": "737167f8-e0bb-419b-a8b3-00b35c268a5c",
+          "width": 284,
+          "x": 539,
+          "y": 575,
+          "zOrder": 81,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 227,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "rangkaianbenar",
+          "persistentUuid": "3d8d6c57-29ba-409b-b170-9dcaea9acec7",
+          "width": 821,
+          "x": 261,
+          "y": 325,
+          "zOrder": 82,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 63,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "buttonlanjut",
+          "persistentUuid": "e50ebfdf-93ea-4afd-aff4-3dcfda54cae8",
+          "width": 148,
+          "x": 896,
+          "y": 445,
+          "zOrder": 83,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "buttonID",
+              "persistentUuid": "cd8309ba-d254-4bdf-835e-a5d97bf322e9",
+              "type": "number",
+              "value": 2
+            }
+          ]
         }
       ],
       "objects": [
@@ -5335,6 +5672,7 @@
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "NewSprite",
+          "persistentUuid": "5274b672-a6f9-47ab-9107-729a28d07aa3",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -7869,7 +8207,14 @@
           "persistentUuid": "977e4605-d375-4134-86af-996665611ffa",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "buttonID",
+              "persistentUuid": "cd8309ba-d254-4bdf-835e-a5d97bf322e9",
+              "type": "number",
+              "value": 0
+            }
+          ],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -9177,7 +9522,14 @@
           "persistentUuid": "dc72e38e-6666-46ff-935c-79cec3113654",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "WireID",
+              "persistentUuid": "d0e614b7-3820-49ac-98b3-fe983b4bf682",
+              "type": "string",
+              "value": ""
+            }
+          ],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -9238,7 +9590,13 @@
           "persistentUuid": "93c0a70e-552e-4d4e-bbe1-22271440699a",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "WireID",
+              "type": "string",
+              "value": ""
+            }
+          ],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -9291,6 +9649,79 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "buttonassembly",
+          "persistentUuid": "a6b93ff8-b3d1-4e11-bd87-3a581fb29547",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Sci-Fi Check Assembly Button.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 63,
+                            "y": 75
+                          },
+                          {
+                            "x": 2108,
+                            "y": 75
+                          },
+                          {
+                            "x": 2108,
+                            "y": 634
+                          },
+                          {
+                            "x": 63,
+                            "y": 634
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite3",
+          "persistentUuid": "0431d14f-a1be-4666-868c-1b06ea8a3fbb",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": []
         }
       ],
       "objectsFolderStructure": {
@@ -9393,6 +9824,9 @@
             "objectName": "buttonlanjut"
           },
           {
+            "objectName": "NewSprite3"
+          },
+          {
             "objectName": "buttonulangi"
           },
           {
@@ -9463,6 +9897,9 @@
           },
           {
             "objectName": "v_connected"
+          },
+          {
+            "objectName": "buttonassembly"
           }
         ]
       },
@@ -10693,6 +11130,70 @@
               "parameters": [
                 "kit_waterpump"
               ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "portmerah"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "h_ghostwired"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "v_ghostwired"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "h_temporary"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "h_connected"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "v_temporary"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "v_connected"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "buttonassembly"
+              ]
             }
           ]
         },
@@ -11391,65 +11892,6 @@
                 "Opacity",
                 "=",
                 "255"
-              ]
-            }
-          ]
-        },
-        {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "IsCursorOnObject"
-              },
-              "parameters": [
-                "esp32",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonFromTextReleased"
-              },
-              "parameters": [
-                "",
-                "\"Left\""
-              ]
-            },
-            {
-              "type": {
-                "value": "NumberVariable"
-              },
-              "parameters": [
-                "Selected_ESP32",
-                "=",
-                "0"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "esp32",
-                "Opacity",
-                "=",
-                "180"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "Selected_ESP32",
-                "=",
-                "1"
               ]
             }
           ]
@@ -12599,6 +13041,17 @@
                 "=",
                 "1"
               ]
+            },
+            {
+              "type": {
+                "value": "NumberObjectVariable"
+              },
+              "parameters": [
+                "buttonlanjut",
+                "buttonID",
+                "!=",
+                "2"
+              ]
             }
           ],
           "actions": [
@@ -13452,6 +13905,52 @@
                 "kit_waterpump",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "portmerah",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "h_ghostwired",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "v_ghostwired",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "buttonassembly",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "AssemblyOpen",
+                "=",
+                "1"
+              ]
             }
           ]
         },
@@ -13559,6 +14058,1711 @@
                 "Text",
                 "=",
                 "\"Status Inventory: \" + ToString(Variable(InventoryOpen))"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "AssemblyOpen",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "IsDragging",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "portmerah",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "StartPortID",
+                "=",
+                "portmerah.VariableString(PortID)"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "StartX",
+                "=",
+                "portmerah.X()"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "StartY",
+                "=",
+                "portmerah.Y()"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "IsDragging",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "AssemblyOpen",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "IsDragging",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetX"
+              },
+              "parameters": [
+                "h_temporary",
+                "=",
+                "(Variable(StartX) + CursorX(\"\", 0)) / 2"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetY"
+              },
+              "parameters": [
+                "h_temporary",
+                "=",
+                "Variable(StartY)"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "h_temporary",
+                "Resizable",
+                "=",
+                "max(1, abs(CursorX(\"\", 0) - Variable(StartX)))"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetX"
+              },
+              "parameters": [
+                "v_temporary",
+                "=",
+                "CursorX(\"\", 0)"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetY"
+              },
+              "parameters": [
+                "v_temporary",
+                "=",
+                "(Variable(StartY) + CursorY(\"\", 0)) / 2"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "v_temporary",
+                "Resizable",
+                "=",
+                "max(1, abs(CursorY(\"\", 0) - Variable(StartY)))"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "AssemblyOpen",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "IsDragging",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "portmerah",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "StartPortID",
+                "=",
+                "\"esp3v3\""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringObjectVariable"
+              },
+              "parameters": [
+                "portmerah",
+                "PortID",
+                "=",
+                "\"soil_vcc\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "h_temporary"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "v_temporary"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "IsDragging",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "koneksi_vcc_soil",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "h_connected",
+                    "WireID",
+                    "=",
+                    "\"vcc_soil\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "h_connected",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "v_connected",
+                    "WireID",
+                    "=",
+                    "\"vcc_soil\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "v_connected",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "AssemblyOpen",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "IsDragging",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "h_temporary"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "v_temporary"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "IsDragging",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Wire_VCC_Connected",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "StringObjectVariable"
+              },
+              "parameters": [
+                "h_connected",
+                "WireID",
+                "=",
+                "\"vcc_soil\""
+              ]
+            }
+          ],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "AssemblyOpen",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "IsDragging",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "portmerah",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "StartPortID",
+                "=",
+                "\"esp_gpio34\""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringObjectVariable"
+              },
+              "parameters": [
+                "portmerah",
+                "PortID",
+                "=",
+                "\"soil_ao\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "h_temporary"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "v_temporary"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "IsDragging",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "koneksi_ao_soil",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "h_connected",
+                    "WireID",
+                    "=",
+                    "\"ao_soil\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "h_connected",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "v_connected",
+                    "WireID",
+                    "=",
+                    "\"ao_soil\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "v_connected",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "AssemblyOpen",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "IsDragging",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "portmerah",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "StartPortID",
+                "=",
+                "\"esp_gnd_sensor\""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringObjectVariable"
+              },
+              "parameters": [
+                "portmerah",
+                "PortID",
+                "=",
+                "\"soil_gnd\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "h_temporary"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "v_temporary"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "IsDragging",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "koneksi_gnd_soil",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "h_connected",
+                    "WireID",
+                    "=",
+                    "\"gnd_soil\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "h_connected",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "v_connected",
+                    "WireID",
+                    "=",
+                    "\"gnd_soil\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "v_connected",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "AssemblyOpen",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "IsDragging",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "portmerah",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "StartPortID",
+                "=",
+                "\"esp_vin\""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringObjectVariable"
+              },
+              "parameters": [
+                "portmerah",
+                "PortID",
+                "=",
+                "\"relay_vcc\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "h_temporary"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "v_temporary"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "IsDragging",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "koneksi_vcc_relay",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "h_connected",
+                    "WireID",
+                    "=",
+                    "\"vcc_relay\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "h_connected",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "v_connected",
+                    "WireID",
+                    "=",
+                    "\"vcc_relay\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "v_connected",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "AssemblyOpen",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "IsDragging",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "portmerah",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "StartPortID",
+                "=",
+                "\"esp_gpio23\""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringObjectVariable"
+              },
+              "parameters": [
+                "portmerah",
+                "PortID",
+                "=",
+                "\"relay_in\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "h_temporary"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "v_temporary"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "IsDragging",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "koneksi_in_relay",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "h_connected",
+                    "WireID",
+                    "=",
+                    "\"in_relay\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "h_connected",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "v_connected",
+                    "WireID",
+                    "=",
+                    "\"in_relay\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "v_connected",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "AssemblyOpen",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "IsDragging",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "portmerah",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "StartPortID",
+                "=",
+                "\"esp_gnd_relay\""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringObjectVariable"
+              },
+              "parameters": [
+                "portmerah",
+                "PortID",
+                "=",
+                "\"relay_gnd\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "h_temporary"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "v_temporary"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "IsDragging",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "koneksi_gnd_relay",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "h_connected",
+                    "WireID",
+                    "=",
+                    "\"gnd_relay\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "h_connected",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "v_connected",
+                    "WireID",
+                    "=",
+                    "\"gnd_relay\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "v_connected",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "AssemblyOpen",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "IsDragging",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "portmerah",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "StartPortID",
+                "=",
+                "\"relay_no\""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringObjectVariable"
+              },
+              "parameters": [
+                "portmerah",
+                "PortID",
+                "=",
+                "\"pump_positive\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "h_temporary"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "v_temporary"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "IsDragging",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "koneksi_no_relay",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "h_connected",
+                    "WireID",
+                    "=",
+                    "\"no_relay\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "h_connected",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "v_connected",
+                    "WireID",
+                    "=",
+                    "\"no_relay\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "v_connected",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "AssemblyOpen",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "IsDragging",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "portmerah",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "StartPortID",
+                "=",
+                "\"relay_com\""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringObjectVariable"
+              },
+              "parameters": [
+                "portmerah",
+                "PortID",
+                "=",
+                "\"pump_negative\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "h_temporary"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "v_temporary"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "IsDragging",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "koneksi_com_relay",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "h_connected",
+                    "WireID",
+                    "=",
+                    "\"com_relay\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "h_connected",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "v_connected",
+                    "WireID",
+                    "=",
+                    "\"com_relay\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "v_connected",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "AssemblyOpen",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "buttonassembly",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "koneksi_vcc_soil",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "koneksi_ao_soil",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "koneksi_gnd_soil",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "koneksi_vcc_relay",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "koneksi_in_relay",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "koneksi_gnd_relay",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "koneksi_no_relay",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "koneksi_com_relay",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberObjectVariable"
+              },
+              "parameters": [
+                "buttonlanjut",
+                "buttonID",
+                "=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "rangkaianbenar",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "buttonlanjut",
+                ""
               ]
             }
           ]
