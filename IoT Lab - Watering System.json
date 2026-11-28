@@ -1313,6 +1313,54 @@
         "name": "Neon Cyan Code Panel Frame.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "Cute Robotic Mission Complete Badge.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cute Robotic Mission Complete Badge.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Robot_Victory__Automatic_Watering_System-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Robot_Victory__Automatic_Watering_System-removebg-preview.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Neon Circuit Connection Guide Panel.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Neon Circuit Connection Guide Panel.png\",\"extension\":\".png\"}",
+        "name": "Neon Circuit Connection Guide Panel.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Koneksi ESP32 dengan Sensor dan Pompa.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Koneksi ESP32 dengan Sensor dan Pompa.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Koneksi Internet Sedang Gangguan (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Koneksi Internet Sedang Gangguan (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Glossy Coba Lagi Retry Button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Glossy Coba Lagi Retry Button.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -1346,7 +1394,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6949469999796043,
+        "zoomFactor": 4.030080642466891,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -5919,9 +5967,9 @@
           "name": "lv2unlocked",
           "persistentUuid": "17fa519e-9918-45ba-81be-b7573e76c486",
           "width": 357,
-          "x": -21,
-          "y": 335,
-          "zOrder": 90,
+          "x": 263,
+          "y": 368,
+          "zOrder": 147,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6267,23 +6315,6 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 61,
-          "keepRatio": true,
-          "layer": "UI",
-          "name": "pintulevel3",
-          "persistentUuid": "7bd89c22-50a5-48cd-bd11-e0803d8049ee",
-          "width": 62,
-          "x": 1279,
-          "y": 429,
-          "zOrder": 129,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
           "height": 119,
           "keepRatio": true,
           "layer": "UI",
@@ -6497,6 +6528,91 @@
           "x": 827,
           "y": 220,
           "zOrder": 144,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 482,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "berhasil",
+          "persistentUuid": "50d14df0-9944-4223-a7f3-6323c2ecaf6a",
+          "width": 748,
+          "x": 253,
+          "y": 91,
+          "zOrder": 146,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 345,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "p_koneksi",
+          "persistentUuid": "4c61330a-6bf6-462d-9168-c313d8fd009e",
+          "width": 325,
+          "x": -31,
+          "y": 209,
+          "zOrder": 148,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 53,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "pintulevel3",
+          "persistentUuid": "44954fd5-f319-435c-b90c-899381327429",
+          "width": 60,
+          "x": 1286,
+          "y": 430,
+          "zOrder": 149,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 142,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "gangguan",
+          "persistentUuid": "a66509f2-8360-4384-9205-b47d8454120b",
+          "width": 238,
+          "x": 561,
+          "y": 302,
+          "zOrder": 150,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 31,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "buttoncobalagi",
+          "persistentUuid": "f3c61103-a361-4f8f-8d93-1ab9ec4213e0",
+          "width": 101,
+          "x": 643,
+          "y": 402,
+          "zOrder": 151,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8612,7 +8728,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Aduh! Lihat tanaman di sebelah sana. Tanahnya sudah kering, tetapi pompa air tidak menyala.\nSepertinya ada komponen yang belum terpasang dengan benar. Kita perlu mencari perangkat yang dibutuhkan untuk menghidupkan kembali sistem penyiraman ini!",
+          "string": "Aduh! Lihat tanaman di sebelah sana. Tanahnya sudah kering, tetapi pompa air tidak menyala.\nSepertinya ada komponen yang belum terpasang dengan benar. Kita perlu mencari perangkat yang dibutuhkan untuk menghidupkan kembali sistem penyiraman ini!\n",
           "font": "324125cb585f82598dfa4c27a79e08c98042332f837f5c1c926dcfb15ffe55c9_MPLUS1p-Medium.ttf",
           "textAlignment": "left",
           "characterSize": 16,
@@ -8635,7 +8751,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Aduh! Lihat tanaman di sebelah sana. Tanahnya sudah kering, tetapi pompa air tidak menyala.\nSepertinya ada komponen yang belum terpasang dengan benar. Kita perlu mencari perangkat yang dibutuhkan untuk menghidupkan kembali sistem penyiraman ini!",
+            "text": "Aduh! Lihat tanaman di sebelah sana. Tanahnya sudah kering, tetapi pompa air tidak menyala.\nSepertinya ada komponen yang belum terpasang dengan benar. Kita perlu mencari perangkat yang dibutuhkan untuk menghidupkan kembali sistem penyiraman ini!\n",
             "font": "324125cb585f82598dfa4c27a79e08c98042332f837f5c1c926dcfb15ffe55c9_MPLUS1p-Medium.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
@@ -8718,7 +8834,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Sekarang kita perlu memilih perangkat yang tepat. Cari komponen yang dapat membaca kelembapan tanah, mengendalikan aliran listrik, dan mengaktifkan pompa air",
+          "string": "Sekarang kita perlu memilih perangkat yang tepat. Cari komponen yang dapat membaca kelembapan tanah, mengendalikan aliran listrik, dan mengaktifkan pompa air. 4 Komponen yang dibutuhkan :\n- esp32\n- soil moistured\n- relay\n- waterpump",
           "font": "324125cb585f82598dfa4c27a79e08c98042332f837f5c1c926dcfb15ffe55c9_MPLUS1p-Medium.ttf",
           "textAlignment": "left",
           "characterSize": 16,
@@ -8741,7 +8857,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Sekarang kita perlu memilih perangkat yang tepat. Cari komponen yang dapat membaca kelembapan tanah, mengendalikan aliran listrik, dan mengaktifkan pompa air",
+            "text": "Sekarang kita perlu memilih perangkat yang tepat. Cari komponen yang dapat membaca kelembapan tanah, mengendalikan aliran listrik, dan mengaktifkan pompa air. 4 Komponen yang dibutuhkan :\n- esp32\n- soil moistured\n- relay\n- waterpump",
             "font": "324125cb585f82598dfa4c27a79e08c98042332f837f5c1c926dcfb15ffe55c9_MPLUS1p-Medium.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
@@ -9897,67 +10013,6 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Wall_tiles_23.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 8,
-                            "y": 8
-                          },
-                          {
-                            "x": 175,
-                            "y": 8
-                          },
-                          {
-                            "x": 175,
-                            "y": 184
-                          },
-                          {
-                            "x": 8,
-                            "y": 184
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "pintulevel3",
-          "persistentUuid": "a4169524-8b87-4772-9bb9-7483f77c2744",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Wall_tiles_24.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12217,6 +12272,311 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "berhasil",
+          "persistentUuid": "5de52658-549d-44ba-9487-16e79efb3948",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Robot_Victory__Automatic_Watering_System-removebg-preview.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 600,
+                            "y": 0
+                          },
+                          {
+                            "x": 600,
+                            "y": 397
+                          },
+                          {
+                            "x": 12,
+                            "y": 397
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "p_koneksi",
+          "persistentUuid": "cbe233c7-ed8c-4daf-8b51-9ca1e019a70b",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Koneksi ESP32 dengan Sensor dan Pompa.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 184,
+                            "y": 4
+                          },
+                          {
+                            "x": 1165,
+                            "y": 4
+                          },
+                          {
+                            "x": 1165,
+                            "y": 1154
+                          },
+                          {
+                            "x": 184,
+                            "y": 1154
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "pintulevel3",
+          "persistentUuid": "206e387e-68f3-4908-92e8-ce168882f2e7",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Wall_tiles_23.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 8
+                          },
+                          {
+                            "x": 175,
+                            "y": 8
+                          },
+                          {
+                            "x": 175,
+                            "y": 184
+                          },
+                          {
+                            "x": 8,
+                            "y": 184
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "gangguan",
+          "persistentUuid": "317a9c1d-c8cd-400d-93ff-4b2dba6eee97",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Koneksi Internet Sedang Gangguan (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 71,
+                            "y": 11
+                          },
+                          {
+                            "x": 1465,
+                            "y": 11
+                          },
+                          {
+                            "x": 1465,
+                            "y": 1002
+                          },
+                          {
+                            "x": 71,
+                            "y": 1002
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "buttoncobalagi",
+          "persistentUuid": "789b2af6-f75f-4b72-b5fd-1372f3c09b92",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Glossy Coba Lagi Retry Button.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 154,
+                            "y": 96
+                          },
+                          {
+                            "x": 2018,
+                            "y": 96
+                          },
+                          {
+                            "x": 2018,
+                            "y": 635
+                          },
+                          {
+                            "x": 154,
+                            "y": 635
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -12340,6 +12700,12 @@
             "objectName": "pintulevel3"
           },
           {
+            "objectName": "gangguan"
+          },
+          {
+            "objectName": "buttoncobalagi"
+          },
+          {
             "objectName": "meja"
           },
           {
@@ -12386,6 +12752,9 @@
           },
           {
             "objectName": "lv2unlocked"
+          },
+          {
+            "objectName": "p_koneksi"
           },
           {
             "objectName": "Scenelv2"
@@ -12473,6 +12842,9 @@
           },
           {
             "objectName": "glowC"
+          },
+          {
+            "objectName": "berhasil"
           }
         ]
       },
@@ -13097,6 +13469,16 @@
                 "NewSprite",
                 "TopDownMovement"
               ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "NewSprite",
+                "Flippable",
+                "yes"
+              ]
             }
           ]
         },
@@ -13139,6 +13521,16 @@
               "parameters": [
                 "NewSprite",
                 "TopDownMovement"
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "NewSprite",
+                "Flippable",
+                "no"
               ]
             }
           ]
@@ -13815,6 +14207,14 @@
               "parameters": [
                 "wifi_um"
               ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "p_koneksi"
+              ]
             }
           ]
         },
@@ -14487,32 +14887,6 @@
                 "Text",
                 "=",
                 "VariableString(L1FullText1)"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SceneJustBegins"
-              },
-              "parameters": [
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "esp32",
-                "Opacity",
-                "=",
-                "255"
               ]
             }
           ]
@@ -15662,17 +16036,6 @@
                 "=",
                 "1"
               ]
-            },
-            {
-              "type": {
-                "value": "NumberObjectVariable"
-              },
-              "parameters": [
-                "buttonlanjut",
-                "buttonID",
-                "!=",
-                "2"
-              ]
             }
           ],
           "actions": [
@@ -16573,6 +16936,15 @@
             },
             {
               "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "p_koneksi",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "SetNumberVariable"
               },
               "parameters": [
@@ -16933,97 +17305,6 @@
               ]
             }
           ]
-        },
-        {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "NumberVariable"
-              },
-              "parameters": [
-                "AssemblyOpen",
-                "=",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "NumberVariable"
-              },
-              "parameters": [
-                "IsDragging",
-                "=",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonFromTextReleased"
-              },
-              "parameters": [
-                "",
-                "\"Left\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Hide"
-              },
-              "parameters": [
-                "h_temporary"
-              ]
-            },
-            {
-              "type": {
-                "value": "Hide"
-              },
-              "parameters": [
-                "v_temporary"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "IsDragging",
-                "=",
-                "0"
-              ]
-            }
-          ]
-        },
-        {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "NumberVariable"
-              },
-              "parameters": [
-                "Wire_VCC_Connected",
-                "=",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "StringObjectVariable"
-              },
-              "parameters": [
-                "h_connected",
-                "WireID",
-                "=",
-                "\"vcc_soil\""
-              ]
-            }
-          ],
-          "actions": []
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -18161,6 +18442,15 @@
             },
             {
               "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
                 "value": "NumberVariable"
               },
               "parameters": [
@@ -18614,6 +18904,14 @@
                 "pintulevel2",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "p_koneksi"
+              ]
             }
           ]
         },
@@ -18868,6 +19166,22 @@
               },
               "parameters": [
                 "buttonnext"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "gangguan"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "buttoncobalagi"
               ]
             },
             {
@@ -19295,138 +19609,6 @@
           ]
         },
         {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "IsCursorOnObject"
-              },
-              "parameters": [
-                "wifi_iotlab",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonFromTextReleased"
-              },
-              "parameters": [
-                "",
-                "\"Left\""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetStringVariable"
-              },
-              "parameters": [
-                "SelectedNetwork",
-                "=",
-                "\"IOT_LAB\""
-              ]
-            }
-          ]
-        },
-        {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "IsCursorOnObject"
-              },
-              "parameters": [
-                "wifi_labguest",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonFromTextReleased"
-              },
-              "parameters": [
-                "",
-                "\"Left\""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetStringVariable"
-              },
-              "parameters": [
-                "SelectedNetwork",
-                "=",
-                "\"LAB_GUEST\""
-              ]
-            }
-          ]
-        },
-        {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "IsCursorOnObject"
-              },
-              "parameters": [
-                "wifi_um",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonFromTextReleased"
-              },
-              "parameters": [
-                "",
-                "\"Left\""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetStringVariable"
-              },
-              "parameters": [
-                "SelectedNetwork",
-                "=",
-                "\"WIFI_UM\""
-              ]
-            }
-          ]
-        },
-        {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -19610,6 +19792,254 @@
               "parameters": [
                 "buttonconnect"
               ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "gangguan",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "buttoncobalagi",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "wifi_um",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Level2Unlocked",
+                "=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "SelectedNetwork",
+                "=",
+                "\"WIFI UM\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "textstatus",
+                "Text",
+                "=",
+                "\"INCORRECT NETWORK. TRY AGAIN!\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "kotakpassword"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "inputpassword"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "buttonconnect"
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "gangguan",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "buttoncobalagi",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "buttoncobalagi",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "gangguan"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "buttoncobalagi"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "SelectedNetwork",
+                "=",
+                "\"\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "wifi_labguest",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "wifi_iotlab",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "wifi_um",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "Scenelv2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "buttonnext",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "DimOverlay",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "textstatus",
+                "Text",
+                "=",
+                "\"\""
+              ]
             }
           ]
         },
@@ -19710,6 +20140,16 @@
                     "NetworkConnected",
                     "=",
                     "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Level2Unlocked",
+                    "=",
+                    "3"
                   ]
                 }
               ]
@@ -19878,6 +20318,110 @@
               },
               "parameters": [
                 "buttoncekcode"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "berhasil"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "komponensalah"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "buttonulangi"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "Scenelv2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "wifi_iotlab"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "wifi_labguest"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "wifi_um"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "kotakpassword"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "inputpassword"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "buttonconnect"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "connect"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "textstatus"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "incorrect"
               ]
             }
           ]
@@ -20114,100 +20658,6 @@
           ]
         },
         {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "NumberVariable"
-              },
-              "parameters": [
-                "Level3Unlocked",
-                "=",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Tween::TweenBehavior::AddObjectOpacityTween3"
-              },
-              "parameters": [
-                "lv3unlocked",
-                "Tween",
-                "Opacity",
-                "\"fade_in\"",
-                "255",
-                "\"linear\"",
-                "0.3",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CompareObjectTimer"
-              },
-              "parameters": [
-                "lv2unlocked",
-                "\"Level3UnlockTimer\"",
-                ">",
-                "2.5"
-              ]
-            },
-            {
-              "type": {
-                "value": "NumberVariable"
-              },
-              "parameters": [
-                "Level3Unlocked",
-                "=",
-                "1"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Hide"
-              },
-              "parameters": [
-                "lv3unlocked"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "Level3Unlocked",
-                "=",
-                "2"
-              ]
-            },
-            {
-              "type": {
-                "value": "Hide"
-              },
-              "parameters": [
-                "DimOverlay"
-              ]
-            }
-          ]
-        },
-        {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -20430,6 +20880,16 @@
               },
               "parameters": [
                 "komponensalah"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "InventoryOpen",
+                "=",
+                "0"
               ]
             }
           ]
@@ -21315,6 +21775,14 @@
                 },
                 {
                   "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "komponensalah"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "SetNumberVariable"
                   },
                   "parameters": [
@@ -21476,117 +21944,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "disabled": true,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "StringVariable"
-                  },
-                  "parameters": [
-                    "SelectedCode",
-                    "!=",
-                    "\"B\""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Show"
-                  },
-                  "parameters": [
-                    "buttonulangilv3",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Show"
-                  },
-                  "parameters": [
-                    "kodesalah",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "CodeCorrect",
-                    "=",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "Scenelv3"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "opsiB"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "opsiA"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "opsiC"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "glowA"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "glowB"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Hide"
-                  },
-                  "parameters": [
-                    "glowC"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Show"
-                  },
-                  "parameters": [
-                    "DimOverlay",
-                    ""
-                  ]
-                }
-              ]
             }
           ]
         },
@@ -21662,14 +22019,6 @@
                 "value": "Hide"
               },
               "parameters": [
-                "DimOverlay"
-              ]
-            },
-            {
-              "type": {
-                "value": "Hide"
-              },
-              "parameters": [
                 "Scenelv3"
               ]
             },
@@ -21723,6 +22072,47 @@
             },
             {
               "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "berhasil",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "kodesalah"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "komponensalah"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "buttonulangilv3"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "buttonulangi"
+              ]
+            },
+            {
+              "type": {
                 "value": "SetNumberVariable"
               },
               "parameters": [
@@ -21735,8 +22125,183 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "buttonulangilv3",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Level3DialogOpen",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "L3TypeProgress",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Level3DialogOpen",
+                "=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "Scenelv3",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "opsiA",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "opsiB",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "opsiC",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "buttoncekcode",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "kotakpassword"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "inputpassword"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "Scenelv2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "komponensalah"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "buttonconnect"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "komponensalah"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "kodesalah"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "buttonulangilv3"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "buttonulangi"
+              ]
+            }
+          ]
         }
       ],
       "layers": [
