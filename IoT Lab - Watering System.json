@@ -1257,6 +1257,62 @@
         "name": "ikon_level3_kode.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "Purple Neon Check Code Button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Purple Neon Check Code Button.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Correct Code Celebration Banner (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Correct Code Celebration Banner (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Lihat Skor Button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Lihat Skor Button.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "KODE SALAH! Robot Coding Banner.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "KODE SALAH! Robot Coding Banner.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Glossy Yellow “Ulangi” Refresh Button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Glossy Yellow “Ulangi” Refresh Button.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Cyan Neon Glow Frame.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cyan Neon Glow Frame.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Neon Cyan Code Panel Frame.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Neon Cyan Code Panel Frame.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -1290,7 +1346,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4368264007821942,
+        "zoomFactor": 0.6949469999796043,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -1580,6 +1636,12 @@
           "value": 0
         },
         {
+          "name": "Variable",
+          "persistentUuid": "a97c9819-c714-4553-8346-0dd65ae7e8b3",
+          "type": "number",
+          "value": 0
+        },
+        {
           "name": "Level3DialogOpen",
           "persistentUuid": "e8bb2c3e-56dd-4bee-a49f-0add2b5ca6da",
           "type": "number",
@@ -1594,6 +1656,18 @@
         {
           "name": "L3FullText",
           "persistentUuid": "38bb6dad-dc80-4d93-8ad6-5c3f7d91d750",
+          "type": "string",
+          "value": ""
+        },
+        {
+          "name": "CodeCorrect",
+          "persistentUuid": "2ab914f5-256c-4d17-ad22-cb15d8ce88d0",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "SelectedCode",
+          "persistentUuid": "3029745c-1aa1-420c-81d1-534b71637a51",
           "type": "string",
           "value": ""
         }
@@ -6261,14 +6335,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 313,
+          "height": 315,
           "keepRatio": true,
           "layer": "UI",
           "name": "opsiB",
           "persistentUuid": "c6281312-ccf1-4a83-91f8-826a97cf8a6a",
-          "width": 252,
+          "width": 254,
           "x": 557,
-          "y": 230,
+          "y": 229,
           "zOrder": 133,
           "numberProperties": [],
           "stringProperties": [],
@@ -6287,6 +6361,142 @@
           "x": 837,
           "y": 230,
           "zOrder": 134,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 107,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "buttoncekcode",
+          "persistentUuid": "69f48d25-9045-412a-b3b9-909750ab4c98",
+          "width": 368,
+          "x": 485,
+          "y": 561,
+          "zOrder": 135,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 231,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "kodebenar",
+          "persistentUuid": "a387dd8a-655f-44ef-8b5a-ee441e476b0f",
+          "width": 717,
+          "x": 313,
+          "y": 287,
+          "zOrder": 136,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 90,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "lihatskor",
+          "persistentUuid": "d17fdff6-3b15-4b1c-9e8f-aa36d0337d47",
+          "width": 220,
+          "x": 794,
+          "y": 371,
+          "zOrder": 137,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 331,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "glowA",
+          "persistentUuid": "8d7a3c8b-5e07-4d8e-b6c4-ae0904739a74",
+          "width": 279,
+          "x": 256,
+          "y": 222,
+          "zOrder": 140,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 232,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "kodesalah",
+          "persistentUuid": "a8fd20fe-0221-47ff-bb4f-1a40a87272d9",
+          "width": 716,
+          "x": 316,
+          "y": 280,
+          "zOrder": 145,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 85,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "buttonulangilv3",
+          "persistentUuid": "989ccae8-9911-4e1a-a53f-9d0275547019",
+          "width": 203,
+          "x": 807,
+          "y": 372,
+          "zOrder": 142,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 334,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "glowB",
+          "persistentUuid": "9aaba02d-ee7d-4883-9ebe-068b15b734be",
+          "width": 272,
+          "x": 549,
+          "y": 219,
+          "zOrder": 143,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 332,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "glowC",
+          "persistentUuid": "63b02eb3-1a82-431a-af96-a678ba470fb8",
+          "width": 267,
+          "x": 827,
+          "y": 220,
+          "zOrder": 144,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11498,6 +11708,515 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "buttoncekcode",
+          "persistentUuid": "f920ff8b-03d9-4e6c-b460-75ef529f5ab1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Purple Neon Check Code Button.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 38,
+                            "y": 68
+                          },
+                          {
+                            "x": 2100,
+                            "y": 68
+                          },
+                          {
+                            "x": 2100,
+                            "y": 669
+                          },
+                          {
+                            "x": 38,
+                            "y": 669
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "kodebenar",
+          "persistentUuid": "085cc127-2406-4258-84d3-be31918720fa",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Correct Code Celebration Banner (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 39
+                          },
+                          {
+                            "x": 2157,
+                            "y": 39
+                          },
+                          {
+                            "x": 2157,
+                            "y": 630
+                          },
+                          {
+                            "x": 11,
+                            "y": 630
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "lihatskor",
+          "persistentUuid": "9e220d50-9427-4912-a46a-246f502d7451",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Lihat Skor Button.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 211,
+                            "y": 153
+                          },
+                          {
+                            "x": 1958,
+                            "y": 153
+                          },
+                          {
+                            "x": 1958,
+                            "y": 599
+                          },
+                          {
+                            "x": 211,
+                            "y": 599
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "kodesalah",
+          "persistentUuid": "43b3230d-36c3-42f7-8f3f-b5d1ca528b6a",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "KODE SALAH! Robot Coding Banner.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 17,
+                            "y": 53
+                          },
+                          {
+                            "x": 2155,
+                            "y": 53
+                          },
+                          {
+                            "x": 2155,
+                            "y": 639
+                          },
+                          {
+                            "x": 17,
+                            "y": 639
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "buttonulangilv3",
+          "persistentUuid": "a2a4fd57-5c9c-471c-8e2a-4e41e5753060",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Glossy Yellow “Ulangi” Refresh Button.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 180,
+                            "y": 140
+                          },
+                          {
+                            "x": 1985,
+                            "y": 140
+                          },
+                          {
+                            "x": 1985,
+                            "y": 603
+                          },
+                          {
+                            "x": 180,
+                            "y": 603
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "glowA",
+          "persistentUuid": "fbb40a43-e214-4a42-9e6b-26c3073c3cc4",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "GlowID",
+              "persistentUuid": "21f0acbe-b2a8-4bb1-b013-29b7435f8f83",
+              "type": "string",
+              "value": "A"
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Neon Cyan Code Panel Frame.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1118,
+                            "y": 0
+                          },
+                          {
+                            "x": 1118,
+                            "y": 1407
+                          },
+                          {
+                            "x": 0,
+                            "y": 1407
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "glowB",
+          "persistentUuid": "849270e0-464e-4d42-824e-77fa703531e9",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "GlowID",
+              "persistentUuid": "d230ce7c-81f3-4652-8964-e528b5ff9fc6",
+              "type": "string",
+              "value": "A"
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Neon Cyan Code Panel Frame.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1118,
+                            "y": 0
+                          },
+                          {
+                            "x": 1118,
+                            "y": 1407
+                          },
+                          {
+                            "x": 0,
+                            "y": 1407
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "glowC",
+          "persistentUuid": "168d9b11-af99-406f-92ad-07e068b4ad58",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "GlowID",
+              "persistentUuid": "b53bf680-b314-435c-8e7c-de2514b423e6",
+              "type": "string",
+              "value": "A"
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Neon Cyan Code Panel Frame.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1118,
+                            "y": 0
+                          },
+                          {
+                            "x": 1118,
+                            "y": 1407
+                          },
+                          {
+                            "x": 0,
+                            "y": 1407
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -11730,6 +12449,30 @@
           },
           {
             "objectName": "iconlv3"
+          },
+          {
+            "objectName": "buttoncekcode"
+          },
+          {
+            "objectName": "kodebenar"
+          },
+          {
+            "objectName": "lihatskor"
+          },
+          {
+            "objectName": "kodesalah"
+          },
+          {
+            "objectName": "buttonulangilv3"
+          },
+          {
+            "objectName": "glowA"
+          },
+          {
+            "objectName": "glowB"
+          },
+          {
+            "objectName": "glowC"
           }
         ]
       },
@@ -18871,114 +19614,6 @@
           ]
         },
         {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Else",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "Show"
-              },
-              "parameters": [
-                "textstatus",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-              },
-              "parameters": [
-                "textstatus",
-                "Text",
-                "=",
-                "\"INCORRECT NETWORK. TRY AGAIN!\""
-              ]
-            }
-          ]
-        },
-        {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "IsCursorOnObject"
-              },
-              "parameters": [
-                "textpassword",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonFromTextReleased"
-              },
-              "parameters": [
-                "",
-                "\"Left\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Hide"
-              },
-              "parameters": [
-                "textpassword"
-              ]
-            }
-          ]
-        },
-        {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "StringVariable"
-              },
-              "parameters": [
-                "SelectedNetwork",
-                "=",
-                "\"IOT_LAB\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Show"
-              },
-              "parameters": [
-                "kotakpassword",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Show"
-              },
-              "parameters": [
-                "inputpassword",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Show"
-              },
-              "parameters": [
-                "buttonconnect",
-                ""
-              ]
-            }
-          ]
-        },
-        {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -19179,6 +19814,70 @@
               },
               "parameters": [
                 "opsiC"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "glowA"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "glowB"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "glowC"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "kodesalah"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "kodebenar"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "buttonulangilv3"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "lihatskor"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "buttoncekcode"
               ]
             }
           ]
@@ -19816,6 +20515,14 @@
             },
             {
               "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "lv3unlocked"
+              ]
+            },
+            {
+              "type": {
                 "value": "SetNumberVariable"
               },
               "parameters": [
@@ -20107,6 +20814,921 @@
               "parameters": [
                 "opsiC",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "buttoncekcode",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "kotakpassword"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "inputpassword"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "Scenelv2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "komponensalah"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "buttonconnect"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "opsiA",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Level3DialogOpen",
+                "=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "SelectedCode",
+                "=",
+                "\"A\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "CodeCorrect",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "glowA",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "glowB"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "glowC"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "opsiB",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Level3DialogOpen",
+                "=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "SelectedCode",
+                "=",
+                "\"B\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "CodeCorrect",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "glowB",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "glowA"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "glowC"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "opsiC",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Level3DialogOpen",
+                "=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "SelectedCode",
+                "=",
+                "\"C\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "CodeCorrect",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "glowC",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "glowA"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "glowB"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "buttoncekcode",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Level3DialogOpen",
+                "=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "SelectedCode",
+                    "=",
+                    "\"B\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "kodebenar",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "lihatskor",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "CodeCorrect",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "Scenelv3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "opsiB"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "opsiA"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "opsiC"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "glowA"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "glowB"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "glowC"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "DimOverlay",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "lv3unlocked"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "buttoncekcode"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "kodesalah"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "buttonulangilv3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Level3DialogOpen",
+                    "=",
+                    "3"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Else",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "SelectedCode",
+                    "!=",
+                    "\"B\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "kodesalah",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "buttonulangilv3",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "CodeCorrect",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "Scenelv3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "opsiB"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "opsiA"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "opsiC"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "glowA"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "glowB"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "glowC"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "DimOverlay",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "lihatskor"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "kodebenar"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "buttoncekcode"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "lv3unlocked"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Level3DialogOpen",
+                    "=",
+                    "3"
+                  ]
+                }
+              ]
+            },
+            {
+              "disabled": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "SelectedCode",
+                    "!=",
+                    "\"B\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "buttonulangilv3",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "kodesalah",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "CodeCorrect",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "Scenelv3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "opsiB"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "opsiA"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "opsiC"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "glowA"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "glowB"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "glowC"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "DimOverlay",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "lihatskor",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Level3DialogOpen",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "CodeCorrect",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "kodebenar"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "lihatskor"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "DimOverlay"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "Scenelv3"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "opsiB"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "opsiA"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "opsiC"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "glowA"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "glowB"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "glowC"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Level3DialogOpen",
+                "=",
+                "4"
               ]
             }
           ]
